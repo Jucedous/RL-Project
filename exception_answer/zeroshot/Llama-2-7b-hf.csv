@@ -1,0 +1,79 @@
+0,<result>contrast</result
+3,<containgency>for a
+8,<relation>contrast</relation
+27,"conditional
+
+### input:
+<"
+34,the relation between arg1 and arg2 is [
+47,<relation>conjunction</relation
+78,<relation>concession</re
+119,<condition>the condition is
+139,<context>president barrah</con
+143,<container><relation>
+145,<arg1>centrust'
+157,<relation>conjunction</relation
+158,"<target>mr. payson,"
+162,"[<t,c,e>]"
+212,<condition>the first argument is larger
+219,<condition>true</condition
+245,it would also help us in our search for equ
+271,"[1, 0, 1]"
+350,<condition>consequent: tem
+356,"<t,c,e,e>"
+357,<result>contrast</result
+365,<context>when it opened in 1
+370,"[1, 0]
+
+###"
+374,<arg1>but that won't
+379,<context>because all operations are connected
+392,<conjunction>not to mention the inc
+412,<condition>that soft-drink
+438,<contemporary>contemporary
+453,"[0,0]
+
+### input"
+461,"<container>
+<comm"
+474,<top>at about 10:
+478,the relation between arg1 and arg2 is tem
+505,the relation between arg1 and arg2 is exp
+508,<containgency>he still
+531,the relation between arg1 and arg2 is :
+543,<basic_relation>exp
+547,<context>we don't think at
+551,<condition>mr. eskand
+557,<prediction>conjunction</pre
+587,<scoring>1</scoring
+631,the relation between arg1 and arg2 is:
+642,<correct>conjunction</c
+652,<label>contrast</label>
+657,if the relation between arg1 and arg2 is
+658,<condition>it is impossible to know
+660,<cond>the futures exchanges followed
+670,<arg1>and specialists -- who
+732,the relation between arg1 and arg2 is exp
+740,"<relation>:<label>
+<rel"
+741,<correct_response>
+749,<condition>as our policy now is
+803,1. <response>it was orderly.
+861,<condition><condition_lab
+879,<conclusion>the development of film processing machines
+887,<condition>the two other offers were
+892,<cond>contrast</cond
+941,"[1,0]
+
+### example"
+943,<condition>now only minor points remain
+948,":<cond>
+:<tempor"
+952,<concept>futures prices decl
+1012,<arg1>a<arg2
+1020,<arg1>for the 12
+1023,<condition><condition_lab
+1031,[<conj>the report looks like it
+1032,"1. 
+2. 
+3."

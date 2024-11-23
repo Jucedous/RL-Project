@@ -1,0 +1,2003 @@
+0,<result>contrast</result
+1,"[contingency]
+
+### input"
+2,"contingency
+
+### input:"
+3,<containgency>for a
+4,"contingency
+
+### explanation"
+5,"[temporal, comparison, conting"
+6,"contingency
+
+### input:"
+7,"comparison
+
+### input:
+<"
+8,<relation>contrast</relation
+9,<contingency>the abc execut
+10,"contingency
+
+### input:"
+11,<t>temporal</t>
+12,<contingency>monday</cont
+13,<temporal>callers can call a
+14,"[temporal]
+
+### input"
+15,"[comparison]
+
+### input:"
+16,<relation>contingency</relation
+17,<contingency>if the response is a
+18,<label>expansion</label>
+19,"[temporal]
+
+### ex"
+20,"1. temporal
+2. conting"
+21,<label>contingency</label>
+22,<label>contingency</label>
+23,<prediction>contingency</prediction
+24,"temporal
+
+### explanation"
+25,<relation>contingency</relation
+26,"temporal
+
+### instruction:"
+27,"conditional
+
+### input:
+<"
+28,<relation>temporal</relation
+29,"expansion
+
+### input:
+<"
+30,"[temporal, contingency]"
+31,<label>temporal</label>
+32,"1. [comparison]
+
+###"
+33,"contingency
+
+### reference:"
+34,the relation between arg1 and arg2 is [
+35,"relation: expansion, [temporal"
+36,"comparison
+
+### input:
+<"
+37,"contingency
+
+### explanation"
+38,"[temporal, comparison, conting"
+39,"contingency
+
+### input:"
+40,"```
+temporal
+```"
+41,<predictedlabel>comparison</predicted
+42,<condition>temporal</con
+43,"temporal
+
+### input:"
+44,<relation>contingency</re
+45,"comparison
+
+### input:
+<"
+46,<label>contingency</label>
+47,<relation>conjunction</relation
+48,<relation>temporal</relation
+49,"contingency
+
+### explanation"
+50,<relation>temporal</relation
+51,"[temporal]
+
+### input"
+52,"<contingency>
+
+### ex"
+53,"contingency
+
+### explanation"
+54,"[contingency]
+
+### input"
+55,<label>contingency</label>
+56,"temporal
+
+### input:"
+57,"[temporal]
+
+### input"
+58,<contingency>the chords modulate
+59,"contingency
+
+### input:"
+60,<temporal>contrasts predictably
+61,"<contingency>
+
+### input"
+62,<prediction>contingency</prediction
+63,<relation>comparison</relation>
+64,<relation>comparison</rel
+65,<contingency>it is clear
+66,"contingency
+
+### explanation"
+67,"comparison
+
+### input:
+<"
+68,"expansion
+
+### explanation:"
+69,<contingency>sales for the latest
+70,<relation>comparison</relation>
+71,the relation is comparison
+72,"expansion
+
+### explanation:"
+73,"contingency
+
+### input:"
+74,<label>contingency</label>
+75,[contingency]
+76,"contingency
+
+### input:"
+77,"the relation is : temporal
+
+##"
+78,<relation>concession</re
+79,<response>(1) <expansion>what
+80,<relation>temporal</relation
+81,"temporal
+
+### input:"
+82,"comparison
+
+### input:
+<"
+83,"temporal
+
+### explanation"
+84,<label>contingency</label>
+85,<response>temporal</
+86,"<contingency>
+
+### output"
+87,<comparison>the ad campaign is meant to
+88,<rel>contingency</rel
+89,"contingency
+
+### input:"
+90,"[contingency]
+
+### input"
+91,"contingency
+
+### explanation"
+92,"[temporal]
+
+### input"
+93,<comment>contingency</co
+94,<label>contingency</label>
+95,<contingency>the senate bill would force
+96,"1. contingency
+
+### exp"
+97,[<b>contingency</b>
+98,<label>contingency</label>
+99,<label>contingency</label
+100,"comparison
+
+### input:
+<"
+101,"comparison
+
+### input:
+<"
+102,<contingency>
+103,"contingency
+
+### explanation"
+104,"temporal
+
+### input:"
+105,":contingency
+
+### input:"
+106,<contingency>blocked by patent
+107,<prediction>contingency</pre
+108,<relation>contingency</relation
+109,"comparison
+
+### explanation:"
+110,<contingency>the device has been successful
+111,"[temporal]
+
+### input"
+112,"contingency
+
+### explanation"
+113,"contingency
+
+### explanation"
+114,<tmp>comparison</tmp>
+115,<context>comparison</context>
+116,<condition>comparison</cond
+117,"contingency
+
+### instruction:"
+118,<contingency>macarthur's
+119,<condition>the condition is
+120,"[contingency]
+
+### input"
+121,"comparison
+
+### input:
+<"
+122,<ans>temporal</ans
+123,"contingency
+
+### input:"
+124,"temporal
+
+### explanation"
+125,<response>contingency</
+126,"```
+[contingency]
+```"
+127,<relation>comparison</relation>
+128,<relation>contingency</relation
+129,<label>contingency</label>
+130,"comparison
+
+### explanation:"
+131,"contingency
+
+### explanation"
+132,<contingency>
+133,<arg1>comparison</arg
+134,<comparison>he bought $4 billion in
+135,"temporal
+
+### explanation"
+136,the relation between the two arguments is temporal
+137,<t>temporal</t>
+138,<response>comparison</response>
+139,<context>president barrah</con
+140,<task>comparison</tas
+141,"[expansion]
+
+### input:"
+142,"[comparison]
+
+### input:"
+143,<container><relation>
+144,"[temporal, comparison, conting"
+145,<arg1>centrust'
+146,"1. temporal
+2. comparison"
+147,<relation>comparison</relation>
+148,"contingency
+
+### input:"
+149,<result>contingency</result
+150,"temporal
+
+### input:"
+151,"expansion
+
+### instruction:"
+152,<context>temporal</context
+153,contingency
+154,"contingency
+
+### explanation"
+155,<label>contingency</label>
+156,"temporal
+
+### explanation"
+157,<relation>conjunction</relation
+158,"<target>mr. payson,"
+159,"contingency
+
+### input:"
+160,<contingency>the price paid was a
+161,"[contingency]
+
+### example"
+162,"[<t,c,e>]"
+163,<relation>temporal</relation
+164,"[contingency]
+
+### input"
+165,"comparison
+
+### instruction:"
+166,<comparison>mr. paul was named by
+167,<temporal>after</temporal
+168,"comparison
+
+### instruction:"
+169,<contingency>the state obliquely
+170,"temporal
+
+### output:"
+171,"[temporal, contingency]"
+172,"[contingency]
+
+### input"
+173,<r>temporal</r>
+174,<label>contingency</label>
+175,"[contingency]
+
+### input"
+176,<contingency>i'm
+177,"contingency
+
+### explanation"
+178,<relation>comparison</relation>
+179,"1. [temporal]
+
+##"
+180,<label>contingency</label>
+181,[<contingency>salom
+182,"expansion
+
+### input:
+<"
+183,"<contingency>
+<arg1>"
+184,<label>expansion</label>
+185,<cond>comparison</cond>
+186,[<relation: temporal>]
+187,<label>comparison</label>
+188,<relation>temporal</relation
+189,<contingency>he had not
+190,"[temporal, expansion]"
+191,"contingency
+
+### input:"
+192,"comparison
+
+### input:
+<"
+193,"<contingency>
+
+### input"
+194,<label>contingency</label>
+195,"contingency
+
+### input:"
+196,"contingency
+
+### input:"
+197,"[temporal]
+
+### input"
+198,"temporal
+
+### input:"
+199,[contingency]
+200,"contingency
+
+### input:"
+201,<relation>temporal</re
+202,"contingency
+
+### input:"
+203,<condition>temporal</con
+204,"[expansion]
+
+### input:"
+205,<label>comparison</label>
+206,<contingency>the climate was
+207,<b>contingency</b>
+208,<rel>contingency</rel
+209,<label>comparison</label>
+210,"[temporal]
+
+### input"
+211,<condition>comparison</cond
+212,<condition>the first argument is larger
+213,<relation>temporal</re
+214,<relation>comparison</relation>
+215,<label>contingency</label>
+216,"[temporal]
+### explan"
+217,<r>contingency</r>
+218,"temporal
+
+### input:"
+219,<condition>true</condition
+220,<context>contingency</context
+221,<b>temporal</b>
+222,"[contingency]
+
+### input"
+223,<t>comparison</t>
+224,"comparison
+
+### input:
+<"
+225,"temporal
+
+### input:"
+226,"contingency
+
+### input:"
+227,<contingency>companies
+228,"the relation between the two arguments is ""conting"
+229,<result>expansion</result>
+230,<contingency>if we have a
+231,<contingency>and</cont
+232,<label>comparison</label>
+233,<label>contingency</label>
+234,<label>contingency</label>
+235,"[contingency]
+
+### input"
+236,<relation>temporal</relation
+237,"comparison
+
+### input:
+<"
+238,":contingency
+
+### input:"
+239,<contingency>based on
+240,<relation>comparison</relation>
+241,"temporal
+
+### input:"
+242,<label>contingency</label
+243,<label>contingency</label>
+244,[expansion](https://youtu.
+245,it would also help us in our search for equ
+246,<b>contingency</b>
+247,<label>contingency</label>
+248,<contingency>institutions
+249,<label>contingency</label>
+250,<expansion>equity investors will want
+251,<result>comparison</result>
+252,"contingency
+
+### input:"
+253,<relation>temporal</re
+254,"[contingency]
+
+### input"
+255,"**contingency**
+
+### re"
+256,"comparison
+
+### explanation:"
+257,<label>contingency</label>
+258,<expansion>the pipes currently delivering
+259,<label>contingency</label>
+260,<t1>comparison</t1>
+261,"contingency
+
+### explanation"
+262,<result>contingency</result
+263,<condition>contingency</con
+264,<contingency>demand is so
+265,<b>temporal</b>: the
+266,<label>contingency</label>
+267,<condition>contingency</con
+268,<relation>comparison</relation>
+269,"<contingency>
+
+### ex"
+270,<cond>temporal</cond
+271,"[1, 0, 1]"
+272,<context>contingency</context
+273,"[temporal]
+
+### ex"
+274,<relation>temporal</relation>
+275,"[expansion]
+
+### input:"
+276,"[temporal, comparison, conting"
+277,"<relation>[temporal, comparison"
+278,<relation>contingency</relation>
+279,"expansion
+
+### input:
+<"
+280,"contingency
+
+### instruction:"
+281,"contingency
+
+### input:"
+282,"contingency
+
+### input:"
+283,<label>temporal</label>
+284,<relation>contingency</relation
+285,<expansion>their cash position is
+286,<contingency>the biggest fl
+287,"temporal
+
+### input:"
+288,<prediction>temporal</pre
+289,"temporal
+
+### input:"
+290,"1. temporal
+2. comparison"
+291,"comparison
+
+### explanation:"
+292,"contingency
+
+### justification:"
+293,"temporal, amcore's assets are"
+294,<response1>contingency</response1
+295,comparison
+296,"**contingency**
+
+### input"
+297,"contingency
+
+### explanation"
+298,"comparison
+
+### input:
+<"
+299,"temporal
+
+### input:"
+300,<label><temporal>the more variables
+301,<relation>expansion</relation>
+302,"contingency
+
+### input:"
+303,<relation>comparison</relation>
+304,<temporal>yesterday</tempor
+305,"[temporal, comparison, conting"
+306,"```
+comparison
+```
+
+###"
+307,"contingency
+
+### instruction:"
+308,[contingency](http://www.gram
+309,"[temporal]
+
+### input"
+310,<positive>contingency</pos
+311,<label>temporal</label>
+312,<relation>temporal</relation
+313,"contingency
+
+### explanation"
+314,<label>contingency</label>
+315,<relation>contingency</relation
+316,"comparison
+
+### explanation:"
+317,"expansion
+
+### explanation:"
+318,<label>contingency</label>
+319,"contingency
+
+### output:"
+320,"temporal
+
+### input:"
+321,<relation>contingency</relation
+322,"temporal
+
+### explanation"
+323,"[temporal, comparison, conting"
+324,<label>contingency</label>
+325,"contingency
+
+### explanation"
+326,"comparison
+
+### output:
+<"
+327,"**temporal**
+
+### input"
+328,"[comparison]
+
+### explan"
+329,<label>contingency</label>
+330,<cond>temporal</cond
+331,<context>temporal</context
+332,<label>contingency</label>
+333,<ans>contingency</ans
+334,"temporal
+
+### explain:"
+335,<label>contingency</label>
+336,<context>contingency</context
+337,<relation>contingency</relation
+338,"contingency
+
+### input:"
+339,<contingency>with great aplomb
+340,<contingency>temporal
+341,<correct>comparison</cor
+342,"contingency
+
+### explanation"
+343,"[comparison]
+
+### input:"
+344,<contingency>i trusted in his
+345,"temporal
+
+### input:"
+346,<relation>contingency</relation
+347,"temporal
+
+### input:"
+348,<response>temporal</
+349,"**comparison**
+
+### input:"
+350,<condition>consequent: tem
+351,<label><arg1>temporal
+352,<result>contingency</result
+353,": [temporal, comparison, cont"
+354,"[comparison, contingency]"
+355,<label>temporal</label>
+356,"<t,c,e,e>"
+357,<result>contrast</result
+358,"contingency
+
+### explanation"
+359,<concept>temporal</con
+360,"contingency
+
+### explanation"
+361,<relation>contingency</relation
+362,"temporal
+
+### example:"
+363,<relation>temporal</relation
+364,<response>temporal</
+365,<context>when it opened in 1
+366,[<contingency>when it opened in
+367,"[temporal, contingency, exp"
+368,<label>temporal</label>
+369,"contingency
+
+### input:"
+370,"[1, 0]
+
+###"
+371,"<expansion>new, efficient and soph"
+372,"comparison
+
+### explanation:"
+373,"[conjunction, contingency]"
+374,<arg1>but that won't
+375,"temporal
+
+### input:"
+376,<label>comparison</label>
+377,<label>contingency</label>
+378,"contingency
+
+### explanation"
+379,<context>because all operations are connected
+380,<result>contingency</result
+381,"```
+contingency
+```
+
+##"
+382,<label>comparison</label>
+383,<contingency>contrast</cont
+384,<relation>temporal</relation>
+385,<label>contingency</label>
+386,"temporal
+
+### input:"
+387,<rel>comparison</rel>
+388,"temporal
+
+### input:"
+389,<label>contingency</label>
+390,"[temporal, contingency]"
+391,"contingency
+
+### input:"
+392,<conjunction>not to mention the inc
+393,contingency
+394,<context>temporal</context
+395,"[comparison, temporal]"
+396,"temporal
+
+### input:"
+397,"[conjunction, contingency, tem"
+398,<relation>temporal</re
+399,"contingency
+
+### input:"
+400,<relation>temporal</relation
+401,1: <label>comparison</label>
+402,"comparison
+
+### explanation:"
+403,"[contingency]
+
+### input"
+404,"temporal, contingency
+
+##"
+405,"comparison
+
+### instruction:"
+406,"**contingency**, because of the **"
+407,<relation>contingency</relation
+408,"**contingency**
+
+### input"
+409,"1. [temporal]
+2."
+410,"[temporal, contingency]"
+411,relation = expansion
+412,<condition>that soft-drink
+413,1. <temporal>snack
+414,"[comparison]
+
+### input:"
+415,"[contingency]
+
+### input"
+416,<label>expansion</label>
+417,"[contingency]
+
+### input"
+418,"contingency
+
+### input:"
+419,<label>comparison</label>
+420,"temporal
+
+### input:"
+421,"contingency
+
+### input:"
+422,<response>temporal</
+423,"[temporal, comparison, conting"
+424,"[temporal, contingency]"
+425,"contingency
+
+### explain:"
+426,"[contingency]
+
+### inst"
+427,"contingency
+
+### input:"
+428,"[contingency]
+
+### input"
+429,<comparison>with a jazz-piano
+430,"[comparison]
+
+### instruction"
+431,<b>comparison</b>
+432,"contingency
+
+### explanation"
+433,"contingency
+
+### input:"
+434,"[contingency]
+
+### ex"
+435,<temporal>massage also has
+436,"contingency
+
+### input:"
+437,"contingency
+
+### input:"
+438,<contemporary>contemporary
+439,<label>contingency</label
+440,"**temporal**
+
+### inst"
+441,<label>expansion</label>
+442,<contingency>common</cont
+443,<relation>contingency</relation
+444,"[comparison]
+
+### input:"
+445,<label>contingency</label>
+446,<contingency>to help do
+447,"[comparison]
+
+### input:"
+448,<condition>comparison</cond
+449,<label>expansion</label>
+450,"[temporal, contingency]"
+451,<relation>temporal</relation
+452,"comparison
+
+### instruction:"
+453,"[0,0]
+
+### input"
+454,<relation>comparison</relation>
+455,"[contingency]
+
+### inst"
+456,"temporal
+
+### input:"
+457,<predict>contingency</pre
+458,"the relation is temporal, contingency"
+459,"<comparison>the project, known as lot"
+460,"[contingency]
+
+### inst"
+461,"<container>
+<comm"
+462,"temporal
+
+### input:"
+463,<label>temporal</label>
+464,"expansion
+
+### example:
+<"
+465,<contingency>even if you look
+466,<prediction>contingency</prediction
+467,"contingency
+
+### explanation"
+468,"contingency
+
+### explanation"
+469,"[temporal]
+
+### input"
+470,<prediction>temporal</prediction
+471,<relation>comparison</relation>
+472,<relation>comparison</relation>
+473,<temporal>quotron systems inc
+474,<top>at about 10:
+475,"contingency
+
+### explanation"
+476,"contingency
+
+### input:"
+477,"contingency
+
+### explanation"
+478,the relation between arg1 and arg2 is tem
+479,"```
+[temporal, comparison,"
+480,"comparison
+
+### explanation:"
+481,<contingency>the eyes of the world
+482,<label><temporal>he retains
+483,"temporal
+
+### input:"
+484,<label>temporal</label>
+485,"[contingency]
+
+### input"
+486,<t>temporal</t>
+487,<contingency>mr. friend
+488,"temporal
+
+### explanation"
+489,<label>comparison</label>
+490,"temporal
+
+### explanation"
+491,"1. contingency
+
+### example"
+492,<relation>contingency</relation
+493,<relation>contingency</relation
+494,"comparison
+
+### explanation:"
+495,"[contingency]
+
+### inst"
+496,"temporal
+
+### explanation"
+497,<label>contingency</label>
+498,<label>temporal</label
+499,<relation>contingency</relation
+500,"contingency
+
+### input:"
+501,<cond>contingency</cond
+502,"comparison
+
+### input:
+<"
+503,<context>temporal</context
+504,<b>contingency</b>
+505,the relation between arg1 and arg2 is exp
+506,<relation>contingency</relation
+507,<label>temporal</label>
+508,<containgency>he still
+509,"```
+comparison
+```
+
+###"
+510,"[contingency]
+
+### input"
+511,"contingency
+
+### reference:"
+512,"<temporal>yesterday, mr."
+513,"1. temporal
+2. conting"
+514,"temporal
+
+### explanation"
+515,"```
+[contingency]
+```"
+516,<tmp>comparison</tmp>
+517,<condition>contingency</con
+518,<prediction>expansion</predi
+519,"comparison
+
+### explanation:"
+520,"[contingency, expansion]"
+521,"<contingency>
+
+### inst"
+522,<prediction>contingency</pre
+523,"contingency
+
+### input:"
+524,<label>contingency</label>
+525,"contingency
+
+### explanation"
+526,"contingency
+
+### explanation"
+527,<label>expansion</label>
+528,"contingency
+
+### input:"
+529,"<conclusion>
+contingency"
+530,relation: expansion
+531,the relation between arg1 and arg2 is :
+532,<label>contingency</label>
+533,"[contingency]
+
+### ex"
+534,<temporal>12-12
+535,<relation>contingency</relation
+536,<relation>temporal</relation
+537,"contingency
+
+### input:"
+538,"[temporal, contingency]"
+539,<context>temporal</context
+540,"expansion
+
+### input:
+<"
+541,<contingency>contingency</cont
+542,<predicate>temporal</
+543,<basic_relation>exp
+544,"comparison
+
+### input:
+<"
+545,<top><comparison>at shear
+546,"[contingency]
+
+### input"
+547,<context>we don't think at
+548,"temporal
+
+### input:"
+549,"[expansion]
+
+### input:"
+550,"[temporal, expansion]"
+551,<condition>mr. eskand
+552,<contingency>both agencies were
+553,"[contingency]
+
+### ex"
+554,"[contingency]
+
+### ex"
+555,"<comparison>if you get your pitch,"
+556,"temporal
+
+### input:"
+557,<prediction>conjunction</pre
+558,"temporal
+
+### explanation"
+559,"temporal
+
+### explanation"
+560,"[temporal]
+
+### inst"
+561,"temporal
+
+### input:"
+562,<prediction>contingency</prediction
+563,<result>expansion</result>
+564,"[temporal]
+
+### input"
+565,<contingency>he was flawless
+566,contingency
+567,"the relation is : temporal
+
+##"
+568,"comparison
+
+### rationale:"
+569,<relation>temporal</relation
+570,"[contingency]
+
+### input"
+571,"comparison
+
+### explanation:"
+572,"[comparison]
+
+### input:"
+573,"[contingency]
+
+### input"
+574,<temporal>the decrease of average shares
+575,"temporal
+
+### input:"
+576,"comparison
+
+### input:
+<"
+577,<prediction>contingency</pre
+578,"<temporal>for the nine months,"
+579,"contingency
+
+### input:"
+580,"[contingency]
+
+### input"
+581,<contingency>for many of london'
+582,<b>temporal</b>
+583,<label>expansion</label>
+584,"temporal
+
+### input:"
+585,"[temporal]
+
+### input"
+586,"temporal
+
+### explanation"
+587,<scoring>1</scoring
+588,"contingency
+
+### output:"
+589,<label>comparison</label>
+590,<contingency>the vivid
+591,"[temporal, comparison, conting"
+592,<label>contingency</label>
+593,<label>contingency</label>
+594,"[contingency]
+
+### input"
+595,<contingency>only half the usual l
+596,"contingency
+
+### input:"
+597,<context>temporal</context
+598,<comparison>the market has been badly dam
+599,"contingency
+
+### input:"
+600,"contingency
+
+### explanation"
+601,<result>comparison</result>
+602,<label>contingency</label>
+603,<relation>temporal</relation
+604,"comparison
+
+### input:
+<"
+605,<contingency>it's still on
+606,<result>contingency</result
+607,<context>temporal</context
+608,relation: temporal
+609,"1. temporal
+
+### input"
+610,"comparison
+
+### input:
+<"
+611,<relation>contingency</relation>
+612,"comparison
+
+### input:
+<"
+613,"contingency
+
+### instruction:"
+614,"[temporal]
+
+### inst"
+615,<relation>comparison</relation>
+616,<contingency>the dax index of
+617,"expansion
+
+### input:
+<"
+618,"[temporal]
+
+### input"
+619,"[contingency]
+
+### inst"
+620,<arg1>temporal</ar
+621,"[temporal, comparison, conting"
+622,<result>contingency</result
+623,"temporal
+
+### instruction:"
+624,"1. [temporal]
+2."
+625,<contingency> the interest rate on short
+626,<label>contingency</label>
+627,"[contingency]
+
+### inst"
+628,<context>temporal</context
+629,<label>expansion</label>
+630,"[comparison]
+
+### explan"
+631,the relation between arg1 and arg2 is:
+632,"[expansion]
+
+### input:"
+633,contingency
+634,"1. [comparison]
+
+###"
+635,"<comparison>the new offer, which see"
+636,"[expansion]
+
+### instruction"
+637,<label>expansion</label>
+638,<label>expansion</label>
+639,"expansion
+
+### output:
+<"
+640,"temporal
+
+### instruction:"
+641,<b>temporal</b>
+642,<correct>conjunction</c
+643,[<temporal>and</tempor
+644,<prediction>temporal</prediction
+645,<label>temporal</label>
+646,"contingency
+
+### justification:"
+647,<label>contingency</label>
+648,<relation>comparison</relation>
+649,<result>temporal</result
+650,[expansion](./result/expansion.
+651,<condition>comparison</cond
+652,<label>contrast</label>
+653,"comparison
+
+### justification:"
+654,"contingency
+
+### explanation"
+655,"<contingency>
+
+### input"
+656,"comparison
+
+### explanation:"
+657,if the relation between arg1 and arg2 is
+658,<condition>it is impossible to know
+659,<t>contingency</t>
+660,<cond>the futures exchanges followed
+661,"[contingency]
+
+### input"
+662,"[contingency]
+
+### input"
+663,"[comparison]
+
+### input:"
+664,<relation>comparison</relation>
+665,<label>contingency</label>
+666,"contingency
+
+### input:"
+667,"the relation is : contingency
+
+##"
+668,"**contingency**
+
+### input"
+669,<temporal>increased</tem
+670,<arg1>and specialists -- who
+671,"contingency
+
+### input:"
+672,"<contingency>in other words, the"
+673,"contingency
+
+### explanation"
+674,<comparison>he was punched and
+675,"contingency
+
+### output:"
+676,<relation>contingency</relation
+677,<result>contingency</result
+678,"1. temporal
+
+### ex"
+679,"[contingency]
+
+### input"
+680,1. contingency (contingency)
+681,<contingency>its survey of
+682,<label>temporal</label>
+683,"```
+comparison
+```
+
+###"
+684,"**<contingency>**
+
+##"
+685,"temporal
+
+### input:"
+686,<condition>contingency</con
+687,"[temporal]
+
+### input"
+688,<relation>contingency</relation
+689,"temporal
+
+### input:"
+690,": [contingency]
+
+###"
+691,<label>comparison</label>
+692,<label>contingency</label>
+693,<label>temporal</label>
+694,"**contingency**
+
+### inst"
+695,<context>comparison</context>
+696,<contingency>new un-advert
+697,<label>temporal</label>
+698,"temporal
+
+### explanation"
+699,"[contingency]
+
+### inst"
+700,<result>contingency</result
+701,"[contingency]
+
+### input"
+702,"temporal
+
+### input:"
+703,<temporal>in the third year in
+704,"temporal
+
+### sample:"
+705,<label>contingency</label>
+706,<label>contingency</label>
+707,"contingency
+
+### explanation"
+708,"comparison
+
+### input:
+<"
+709,"[contingency, expansion]"
+710,<result>contingency</result
+711,"**comparison**
+
+### input:"
+712,"comparison
+
+### explanation:"
+713,"[contingency, comparison]"
+714,"contingency
+
+### explanation"
+715,<relation>contingency</relation
+716,"[contingency]
+
+### inst"
+717,"temporal
+
+### instruction:"
+718,"<contingency>all told,"
+719,<temporal>in its nicely produced publication
+720,expansion
+721,<temporal>it treads in
+722,"contingency
+
+### explanation"
+723,<relation>contingency</relation>
+724,<contingency>the real key is to
+725,"contingency
+
+### input:"
+726,"temporal
+
+### input:"
+727,<label>comparison</label><label>
+728,<bonus>temporal</b
+729,<response1>contingency</response1
+730,<label>comparison</label>
+731,"contingency
+
+### justification:"
+732,the relation between arg1 and arg2 is exp
+733,<label>temporal</label>
+734,"contingency
+
+### explanation"
+735,<r1>temporal</r1
+736,"[expansion]
+
+### input:"
+737,"comparison
+
+### explanation:"
+738,"temporal
+
+### input:"
+739,"expansion
+
+### input:
+<"
+740,"<relation>:<label>
+<rel"
+741,<correct_response>
+742,"temporal
+
+### input:"
+743,"contingency
+
+### input:"
+744,"1. temporal
+2. tempor"
+745,[contingency]
+746,<contingency>the index slid
+747,"expansion
+
+### output:
+<"
+748,<arg1>comparison</arg
+749,<condition>as our policy now is
+750,"- [contingency]
+
+###"
+751,<relation>temporal</relation
+752,<response>contingency</response>
+753,<condition>contingency</con
+754,<label>temporal</label>
+755,"**contingency**
+
+### ex"
+756,"[temporal]
+
+### input"
+757,"contingency
+
+### justification:"
+758,"contingency
+
+### input:"
+759,<result>contingency</result
+760,<temporal>8% in australia and
+761,<contingency>their econom
+762,"comparison
+
+### why:
+<"
+763,"contingency
+
+### explain:"
+764,"temporal
+
+### example:"
+765,"comparison
+
+### input:
+<"
+766,<contingency>the financial times
+767,"contingency
+
+### input:"
+768,"1. temporal, arg2 is after"
+769,"temporal
+
+### input:"
+770,<container>temporal</
+771,"the relation is: contingency
+
+##"
+772,<relation>comparison</relation>
+773,<label>contingency</label>
+774,"temporal
+
+### input:"
+775,<label>contingency</label>
+776,"contingency
+
+### instruction:"
+777,<relation>contingency</relation
+778,"<comparison>
+
+### input:"
+779,"```
+temporal
+```
+
+##"
+780,"1:temporal
+
+### ex"
+781,<label>contingency</label>
+782,<predicate>temporal</
+783,"contingency
+
+### instruction:"
+784,"comparison
+
+### input:
+<"
+785,"contingency
+
+### input:"
+786,"[comparison]
+
+### input:"
+787,"contingency
+
+### explanation"
+788,"temporal
+
+### input:"
+789,<relation>contingency</relation>
+790,"temporal
+
+### input:"
+791,<rel>contingency</rel
+792,<label>contingency</label>
+793,"```
+<contingency>then"
+794,<contingency>
+795,"comparison
+
+### input:
+<"
+796,"[comparison]
+
+### input:"
+797,"comparison
+
+### input:
+<"
+798,<result>expansion</result>
+799,<label>comparison</label>
+800,"temporal
+
+### justification:"
+801,"[contingency]
+
+
+###"
+802,<response>comparison</re
+803,1. <response>it was orderly.
+804,[<contingency>we put
+805,<relation>contingency</relation
+806,"[<temporal>, <contingency"
+807,"[conjunction, temporal]"
+808,<label>temporal</label>
+809,<condition>temporal</con
+810,"temporal
+
+### input:"
+811,"```
+relation: temporal
+```"
+812,"[temporal]
+
+### ex"
+813,<temporal>selkin said</
+814,"contingency
+
+### instruction:"
+815,"temporal, shares of three broker"
+816,"[temporal]
+
+### example"
+817,<label>temporal</label>
+818,<label>comparison</label>
+819,"expansion
+
+### input:
+<"
+820,"comparison
+
+### input:
+<"
+821,<r>expansion</r>
+822,"[expansion]
+
+### input:"
+823,"[contingency]
+
+### ex"
+824,the relation between the two arguments is temporal
+825,"<comparison>
+of course it was"
+826,<result>contingency</result
+827,<condition>contingency</con
+828,<contingency>sen. lauten
+829,<label>contingency</label>
+830,<concept>temporal</con
+831,<response>temporal</
+832,<contingency>the sum is
+833,<relation>comparison</relation>
+834,"[contingency]
+
+### inst"
+835,"[contingency]
+
+### input"
+836,<result>comparison</result>
+837,"contingency
+
+### input:"
+838,<result>comparison</result>
+839,"[temporal]
+### output:"
+840,<task>contingency</t
+841,<result>contingency</result
+842,1. [contingency]
+843,"comparison
+
+### input:
+<"
+844,"temporal
+
+### input:"
+845,"contingency
+
+### input:"
+846,<label>comparison</label>
+847,<result>contingency</result
+848,<label>comparison</label>
+849,<response>temporal</
+850,"temporal
+
+### input:"
+851,<prediction>the two arguments are temporally
+852,<label>expansion</label>
+853,"contingency
+
+### explanation"
+854,<relation>comparison</relation>
+855,<label>temporal</label>
+856,<label>contingency</label>
+857,"```
+[contingency]"
+858,"contingency
+
+### input:"
+859,<label>comparison</label>
+860,<relation>contingency</relation
+861,<condition><condition_lab
+862,<label>contingency</label>
+863,<response>temporal</response>
+864,<contingency>portrait stud
+865,"[comparison]
+
+### input:"
+866,"**temporal**
+
+### sample"
+867,<condition>contingency</con
+868,"[comparison]
+
+### instruction"
+869,"temporal
+
+### explanation"
+870,"contingency
+
+### input:"
+871,"contingency
+
+### input:"
+872,"temporal
+
+### explanation"
+873,[<contingency>consequently
+874,<prediction>temporal</prediction
+875,"temporal
+
+### input:"
+876,<label>contingency</label>
+877,<prediction>temporal</prediction
+878,"[temporal]
+
+### ex"
+879,<conclusion>the development of film processing machines
+880,<rel>contingency</rel
+881,"comparison
+
+### input:
+<"
+882,1. temporal : 0.7
+883,"<temporal>
+
+### input"
+884,"[comparison]
+
+### input:"
+885,"1. contingency
+2. tempor"
+886,"1. [contingency]
+2."
+887,<condition>the two other offers were
+888,[<temporal>  <comparison
+889,<label>contingency</label>
+890,"[temporal, comparison, conting"
+891,"temporal
+
+### input:"
+892,<cond>contrast</cond
+893,"[contingency]
+
+### input"
+894,<context>temporal</context
+895,"[comparison, expansion]
+
+##"
+896,"contingency
+
+### input:"
+897,"expansion
+
+### output:
+<"
+898,"```
+expansion
+```
+
+###"
+899,"contingency
+
+### input:"
+900,<relation>contingency</relation
+901,"[comparison]
+
+### input:"
+902,<t:temporal>the offer was
+903,"expansion
+
+### explanation:"
+904,<contingency>the u.
+905,<condition>temporal</con
+906,<result>contingency</result
+907,"temporal
+
+### explanation"
+908,"temporal
+
+### input:"
+909,<label>temporal</label
+910,"1. temporal
+
+### input"
+911,"temporal
+
+### explanation"
+912,<tmp>temporal</tmp
+913,<prediction>temporal</pre
+914,<rel>contingency</rel
+915,<contingency>it sustained a net
+916,:<swapo>temporal</
+917,"1. temporal
+2. tempor"
+918,<context>comparison</context>
+919,"<contingency>
+
+### ex"
+920,<label>comparison</label>
+921,"[temporal, comparison]"
+922,<result>contingency</result
+923,<relation>comparison</relation>
+924,<label>comparison</label>
+925,<prediction>contingency</prediction
+926,"temporal
+
+### explanation"
+927,"[contingency]
+
+### ex"
+928,<result>comparison</result>
+929,"comparison
+
+### input:
+<"
+930,"<contingency>back on friday, oct"
+931,<contingency>and gold prices
+932,"<temporal>on black monday, oct"
+933,<relation>contingency</relation
+934,"[temporal]
+
+### ex"
+935,"[contingency]
+
+### input"
+936,"contingency
+
+### input:"
+937,"[contingency]
+
+### input"
+938,"[comparison]
+
+### instruction"
+939,"<contingency>
+### explan"
+940,<label>contingency</label>
+941,"[1,0]
+
+### example"
+942,"comparison
+
+### input:
+<"
+943,<condition>now only minor points remain
+944,<context>temporal</context
+945,<label>contingency</label>
+946,"expansion
+
+### output:
+co"
+947,"expansion
+
+### explanation:"
+948,":<cond>
+:<tempor"
+949,"[temporal, expansion]"
+950,":contingency
+
+### input:"
+951,<result>expansion</result>
+952,<concept>futures prices decl
+953,<relation>temporal</relation
+954,"comparison
+
+### input:
+<"
+955,comparison
+956,<temporal>at any rate india needs
+957,"[contingency]
+
+### input"
+958,<relation>temporal</relation>
+959,<relation>expansion</relation>
+960,<expansion>golden west finan
+961,<comparison>$11 billion at quarter
+962,<temporal>before</temporal
+963,<label>comparison</label>
+964,the relation is : <contingency
+965,"comparison
+
+### explanation:"
+966,<relation>contingency</relation
+967,"[temporal, contingency]"
+968,<comment>comparison</comm
+969,<label>expansion</label>
+970,"[expansion]
+
+### explan"
+971,"[comparison]
+
+### input:"
+972,<title>temporal</t
+973,<result>contingency</result
+974,<label>contingency</label>
+975,"contingency
+
+### input:"
+976,<result>contingency</result>
+977,<label>contingency</label>
+978,"temporal
+
+### input:"
+979,"temporal
+
+### explanation"
+980,<context>comparison</context>
+981,<result>temporal</result
+982,"contingency
+
+### input:"
+983,<result>comparison</result>
+984,<label>contingency</label>
+985,"contingency
+
+### justification:"
+986,"[contingency]
+
+### input"
+987,<rel>comparison</rel>
+988,<contingency>merrill
+989,<result>temporal</result
+990,<relation>temporal</relation
+991,"contingency
+
+### instruction:"
+992,<relation>contingency</re
+993,"comparison
+
+### input:
+<"
+994,"[comparison]
+
+### input:"
+995,<result>comparison</result>
+996,"contingency
+
+### input:"
+997,<result>contingency</result
+998,<contingency>down 4
+999,<contingency>the first thing that caught
+1000,"[temporal]
+
+### input"
+1001,"```
+""temporal""
+```"
+1002,<label>comparison</label>
+1003,<relation>contingency</relation
+1004,"[comparison]
+
+### output:"
+1005,"comparison
+
+### instruction:"
+1006,<contingency>among big
+1007,"expansion
+
+### input:
+<"
+1008,"comparison
+
+### input:
+<"
+1009,"contingency
+
+### input:"
+1010,"contingency
+
+### instruction:"
+1011,[contingency](https://github.com
+1012,<arg1>a<arg2
+1013,"1. temporal: 
+
+2"
+1014,"contingency
+
+### input:"
+1015,"relation: expansion
+
+### ex"
+1016,<result>contingency</result
+1017,"[contingency]
+
+### input"
+1018,"[comparison]
+
+### input:"
+1019,<relation>contingency</relation
+1020,<arg1>for the 12
+1021,"contingency
+
+### input:"
+1022,<relation>temporal</relation
+1023,<condition><condition_lab
+1024,<result>contingency</result
+1025,contingency
+1026,"contingency
+
+### explanation"
+1027,<predicate>contingency</predicate
+1028,<label>expansion</label>
+1029,<result>contingency</
+1030,"contingency
+
+### explanation"
+1031,[<conj>the report looks like it
+1032,"1. 
+2. 
+3."
+1033,<label>comparison</label>
+1034,<label>contingency</label>
+1035,<comparison>mr. sim must pare its
+1036,"[temporal]
+
+### inst"
+1037,"contingency
+
+### explanation"
+1038,<relation>contingency</re
+1039,<prediction>contingency</prediction
+1040,"contingency
+
+### instruction:"
+1041,"contingency
+
+### input:"
+1042,<label>contingency</label>
+1043,"contingency
+
+### input:"
+1044,"1. temporal
+2. conting"
+1045,"the relation is temporal
+
+###"
