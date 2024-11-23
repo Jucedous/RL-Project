@@ -6,7 +6,7 @@
 
 ## prompt file: prompt.py
 
-## train: training.py
+## train: training.py (direct finetune, not with RL)
 
 ## test: test.py
 
