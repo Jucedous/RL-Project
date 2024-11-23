@@ -13,7 +13,7 @@ def ImplicitDataset(foldlist):
     category_mapping = {'Temporal': 0, 'Comparison': 1, 'Contingency': 2, 'Expansion': 3}
     data=[]
     data_dict=defaultdict(list)
-    file_path = './dataset/pdtb_v2/data/pdtb/'
+    file_path = './pdtb_v2/data/pdtb/'
     for idx in foldlist:
         fold_path=os.path.join(file_path,idx)
         for fold_file in sorted(os.listdir(fold_path)):
