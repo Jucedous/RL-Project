@@ -6,4 +6,7 @@
 
 ## prompt file: prompt.py
 
+## train: training.py
+
+## test: test.py
 
