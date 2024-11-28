@@ -87,11 +87,12 @@ for data in test_dataset['train']:
     label=[0,0,0,0]
     for category in category_mapping:
         if category.lower() in data['answer'].lower():
-            label[category_mapping[category]]=1    
+            label[category_mapping[category]]=1
     label_true.append(label)
 
 
 ##text generation config
+# tokenizer = AutoTokenizer.from_pretrained("/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,cache_dir="/scratch/user/hanyun_yin/huggingface_model/"+args.model_name)
 tokenizer = AutoTokenizer.from_pretrained("/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,cache_dir="/scratch/user/hanyun_yin/huggingface_model/"+args.model_name)
 tokenizer.pad_token = tokenizer.eos_token
 tokenizer.padding_side = "right"
