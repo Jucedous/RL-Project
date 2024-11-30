@@ -1,11 +1,6 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-local_model_path = r"C:\Users\Owner\Downloads\meta-llamaLlama-3.2-1B"
-
 def load_local_model(model_path):
-    """
-    Load a locally saved Llama model and tokenizer.
-    """
     try:
         print(f"Loading tokenizer from {model_path}...")
         tokenizer = AutoTokenizer.from_pretrained(model_path)
@@ -23,6 +18,7 @@ def load_local_model(model_path):
         print(f"Error loading model: {e}")
         exit()
 
+local_model_path = r"C:\Users\Owner\Downloads\meta-llamaLlama-3.2-1B"
 tokenizer, model = load_local_model(local_model_path)
 
 def generate_text(prompt, max_length=100, temperature=0.7, top_k=50):
@@ -50,7 +46,7 @@ def generate_text(prompt, max_length=100, temperature=0.7, top_k=50):
         return ""
 
 if __name__ == "__main__":
-    prompt = "what is 1 plus 1?"
+    prompt = "Q: What is 1 plus 1?\nA:"
     print("Generating text...")
     generated_text = generate_text(prompt)
     print("\nGenerated Text:")

@@ -1,2755 +1,1308 @@
-0,"temporal
-###"
-1,"comparison
-###"
-2,"temporal
-
-###"
-3,"expansion
-
-###"
-4,"comparison
-
-###"
-5,"temporal
-
-###"
-6,"temporal
-
-###"
-7,"comparison
-
-###"
-8,"expansion
-
-###"
-9,"comparison
-
-###"
-10,"comparison
-
-###"
-11,"temporal
-
-###"
-12,"temporal
-
-###"
-13,"expansion
-###"
-14,"temporal
-
-###"
-15,"temporal
-
-###"
-16,"temporal
-###"
-17,contingency
-18,contingency
-19,"comparison
-
-###"
-20,"comparison
-
-###"
-21,"temporal
-
-###"
-22,"comparison
-
-###"
-23,"temporal
-
-###"
-24,"temporal
-
-###"
-25,"comparison
-
-###"
-26,"temporal
-
-###"
-27,"temporal
-
-###"
-28,"temporal
-###"
-29,"comparison
-###"
-30,contingency
-31,"comparison
-
-###"
-32,"comparison
-###"
-33,"comparison
-###"
-34,"comparison
-
-###"
-35,"comparison
-###"
-36,"temporal
-
-###"
-37,"comparison
-
-###"
-38,"temporal
-
-###"
-39,"temporal
-
-###"
-40,"comparison
-
-###"
-41,"comparison
-
-###"
-42,"comparison
-
-###"
-43,"temporal
-
-###"
-44,"comparison
-
-###"
-45,"comparison
-###"
-46,"comparison
-
-###"
-47,"comparison
-
-###"
-48,"comparison
-
-###"
-49,"temporal
-
-###"
-50,"temporal
-
-###"
-51,"temporal
-
-###"
-52,"temporal
-
-###"
-53,"comparison
-###"
-54,"temporal
-###"
-55,"comparison
-###"
-56,"comparison
-
-###"
-57,"temporal
-###"
-58,"temporal
-
-###"
-59,"temporal
-###"
-60,"comparison
-
-###"
-61,"temporal
-
-###"
-62,"comparison
-
-###"
-63,contingency
-64,"expansion
-
-###"
-65,"temporal
-
-###"
-66,"comparison
-
-###"
-67,"temporal
-
-###"
-68,"temporal
-
-###"
-69,"temporal
-
-###"
-70,"temporal
-
-###"
-71,"temporal
-
-###"
-72,"temporal
-
-###"
-73,"temporal
-
-###"
-74,"temporal
-
-###"
-75,"comparison
-
-###"
-76,"comparison
-
-###"
-77,"comparison
-
-###"
-78,"temporal
-
-###"
-79,contingency
-80,"comparison
-
-###"
-81,"comparison
-
-###"
-82,"temporal
-
-###"
-83,"expansion
-
-###"
-84,"comparison
-###"
-85,"comparison
-
-###"
-86,"temporal
-
-###"
-87,"temporal
-
-###"
-88,"temporal
-
-###"
-89,"comparison
-###"
-90,"temporal
-
-###"
-91,"comparison
-
-###"
-92,"comparison
-
-###"
-93,"comparison
-###"
-94,"temporal
-
-###"
-95,"temporal
-
-###"
-96,"temporal
-
-###"
-97,"temporal
-
-###"
-98,"comparison
-###"
-99,"temporal
-
-###"
-100,contingency
-101,"expansion
-
-###"
-102,"comparison
-
-###"
-103,"comparison
-
-###"
-104,"temporal
-###"
-105,"comparison
-###"
-106,"temporal
-temporal"
-107,"temporal
-
-###"
-108,"expansion
-###"
-109,"temporal
-
-###"
-110,"expansion
-
-###"
-111,"temporal
-
-###"
-112,contingency
-113,contingency
-114,"expansion
-
-###"
-115,contingency
-116,"temporal
-
-###"
-117,"temporal
-
-###"
-118,"temporal
-
-###"
-119,"temporal
-
-###"
-120,"temporal
-
-###"
-121,"expansion
-
-###"
-122,"comparison
-###"
-123,"comparison
-
-###"
-124,"comparison
-###"
-125,"temporal
-###"
-126,"comparison
-###"
-127,contingency
-128,"temporal
-
-###"
-129,"temporal
-
-###"
-130,contingency
-131,contingency
-132,"comparison
-
-###"
-133,"temporal
-
-###"
-134,contingency
-135,"temporal
-
-###"
-136,"temporal
-
-###"
-137,"expansion
-###"
+0,"<img src=""https://github.com/ashut"
+1,"- <temporal>
+    *if you"
+2,"* temporal - <temporal>
+    * comparison"
+3,"contigent: <temporal>, which"
+4,"<p class=""code""> ""comparison""</p>"
+5,"<p align=""center"">
+    <img src=""/"
+6,the relationship is comparison.
+7,<p>cbs should promote its new show <em
+8,in which way arguments are related?
+9,temporal: abc sports is a media company that
+10,contiguity: arg3 = <arg4
+11,if you want more information about that topic or are
+12,"temporal: monday is before tuesday in english,"
+13,you should give us all information we want. we
+14,yes. we are doing it with a different algorithm
+15,"- temporal: <span class=""tag"">"
+16,* temporal: the prediction is that experts expect
+17,contigenty
+18,temporally: [0.5 8
+19,<b>timing: 0/5 </b
+20,"the answer is: ""expansion""
+
+#### explanation:"
+21,"<p class=""result"">the relationship is <strong"
+22,you can give a simple description like: <b
+23,"```
+temporal: arg3 ='story"
+24,"the relationship of ""is"" indicates that they are"
+25,this data is about many different kinds of injury.
+26,"```
+temporal expansion 
+"""
+27,"the sentence before: <img src=""https://"
+28,"""comparison"""
+29,temporal:  [0]   <
+30,"the following are possible relations: 
+- temporal"
+31,[action]gaddafi meets up again after nearly
+32,"the relationship can be represented as follows:
+
+> the"
+33,"```json{lang=""en""}
+{
+    """
+34,* temporal: <label=comparison>
+35,[yesterday]japan is willing (to accept)
+36,in this experiment we predict that <temp> there
+37,"argentum = 0 (negative)
+c"
+38,if you find that there is temporal or comparison relationship
+39,"<div class=""row"">
+    <div id='"
+40,"the answer should be:
+
+* **contingeny"
+41,if <response>[comparison] then arg3
+42,contiguous (yes) or non-contiguity
+43,the relationship is temporal or comparison.
+44,yes/no
+45,"* temporal: <span style=""color:red"
+46,the input will be of form: <title>|
+47,there will be 3 possible response options. the
+48,"yes. the answer should be ""temporal""."
+49,* [temporal](http://aai.edu
+50,the relationship can be understood as a temporal span (
+51,mr.glass's opening is very similar in style
+52,
+53,"""contig"""
+54,"<p class=""text-justify"">the first is"
+55,<p>possibly temporal (e.g.
+56,if <temporal>: 0 (true
+57,expanding
+58,"* temporal: <span class=""label"">"
+59,contiguity
+60,comparison
+61,"<temporal>
+mr.glass is going"
+62,"0: no relation<br>
+-3:-6"
+63,"argpolarity = ""expansion"""
+64,if <arg:arg-0>.is.temp
+65,yes/no
+66,temporal | contigencity
+67,"<b>temporal:</b>
+the first argument"
+68,the following chart shows that 'comparison' has more
+69,"the output is either ""comparison"" or not."
+70,explanation: temporal -> the order in which events
+71,if you can provide some source for this information then
+72,"<div style=""width: 100%"">
+<p>"
+73,true or false?  <but it is
+74,contigent: if two arguments are given as
+75,"<p>
+this data is collected as part on a"
+76,"<p>
+mr.greve <b>was right"
+77,
+78,comparison
+79,<br/> <b>[expansion](https://www
+80,<p>you can argue about whether or not that's
+81,"* temporal: <span style=""color:red"
+82,the relationship <i>(arg 0: perhaps
+83,temporal = true | comparison false| contingency false
+84,one example response will be provided by this model.
+85,if <arga>.argb >.ar
+86,"she will get a score of [-100,-5"
+87,"""contemporization"""
+88,"""comparison"""
+89,the relationship is <b>temporal </b
+90,this is an example where we can see how machine
+91,"the table below shows 7 relations:
+
+| relation"
+92,"* temporal: <span class=""label"">"
+93,"[a temporal relation]
+the two arguments can be"
+94,"yes -> contingency (true)
+
+no->"
+95,<p>0.3 - <b>predict
+96,temporal: both have different order types (i
+97,"<type=response>
+ <text type=""label"
+98,<trader <ticker_id>- is in
+99,0: temporal relationship (eg. temporal sequence
+100,"```bash 
+# predict which of two sentences is"
+101,the answer of this question: <yes/dual
+102,"the relationship is <em>, i.e., temp"
+103,"<div class=""container"">
+  <div>"
+104,"```
+in this sentence `arg 3`"
+105,"<div class=""input""><span style='font-size"
+106,temporal
+107,"* temporal -> time order (same)
+    -"
+108,<p></p>
+109,"<p style=""text-align: justify;"">both <"
+110,
+111,![response](https://github.com/gaozh
+112,* temporal -> if you are going up-temp
+113,<p>this is an expansion.</p>
+114,arg4 = temporal;  <br>
+115,true
+116,"<div>
+  <span class=""label"">comparison"
+117,"arg0: temporal arg3:
+
+```bash"
+118,expansion
+119,"```json 
+{
+    ""id"": -5"
+120,"**temporal**: <span style=""color:"
+121,"the best option for ""comparison"" would be either"
+122,"- if < arg1 > = ""yes"
+123,* temporal - <time> the russian fleet
+124,* temporal (more than 10 seconds)
+125,the 2013 report was released by two independent
+126,"<br/><br/>
+- temporal: yes <"
+127,"expansion<br>
+the expansion is a process that occurs"
+128,"the relationship is temporal.
+
+## instructions:
+
+in"
+129,"<p style=""font-size: 18px"">"
+130,contigential relation: temporal
+131,if <both>: temporal or contrastive
+132,the relationship is temporal.
+133,"- <temporal>
+  - [0"
+134,"<p style=""text-align: center;""><strong></"
+135,the above string is an example of [comparison](
+136,"explanation: <arg3>, expansion"
+137,"""contig""
+
+#### explanation:
+
+this example comes"
 138,"temporal
-###"
-139,"temporal
 
-###"
-140,"temporal
 
-###"
-141,"temporal
-
-###"
-142,"temporal
-
-###"
-143,"temporal
-
-###"
-144,"temporal
-
-###"
-145,"temporal
-###"
-146,"temporal
-
-###"
-147,"temporal
-
-###"
-148,"temporal
-
-###"
-149,"temporal
-
-###"
-150,"temporal
-
-###"
-151,"temporal
-###"
-152,"temporal
-###"
-153,"temporal
-
-###"
-154,"temporal
-
-###"
-155,"comparison
-
-###"
-156,"temporal
-
-###"
-157,"comparison
-
-###"
-158,"temporal
-
-###"
-159,"temporal
-###"
-160,"temporal
-
-###"
-161,"temporal
-
-###"
-162,contingency
-163,contingency
-164,"temporal
-
-###"
-165,"temporal
-
-###"
-166,"temporal
-
-###"
-167,"temporal
-
-###"
-168,"comparison
-
-###"
-169,contingency
-170,"comparison
-
-###"
-171,"temporal
-
-###"
-172,"comparison
-###"
-173,"temporal
-
-###"
-174,"comparison
-
-###"
-175,"temporal
-
-###"
-176,"comparison
-
-###"
-177,"temporal
-###"
-178,"temporal
-
-###"
-179,"comparison
-###"
-180,"temporal
-
-###"
-181,"temporal
-
-###"
-182,"comparison
-###"
-183,"comparison
-###"
-184,"temporal
-
-###"
-185,"comparison
-
-###"
-186,"temporal
-
-###"
-187,"comparison
-
-###"
-188,contingency
-189,"comparison
-
-###"
-190,"temporal
-
-###"
-191,"comparison
-
-###"
-192,"comparison
-
-###"
-193,"comparison
-
-###"
-194,"comparison
-
-###"
-195,"temporal
-
-###"
-196,"temporal
-
-###"
-197,"comparison
-
-###"
-198,contingency
-199,contingency
-200,"comparison
-###"
-201,"comparison
-###"
-202,"temporal
-
-###"
-203,"comparison
-
-###"
-204,"comparison
-
-###"
-205,"temporal
-
-###"
-206,"temporal
-
-###"
-207,"temporal
-
-###"
-208,"temporal
-
-###"
-209,"expansion
-
-###"
-210,"temporal
-
-###"
-211,"temporal
-
-###"
-212,"temporal
-
-###"
-213,"temporal
-
-###"
-214,"temporal
-###"
-215,"temporal
-
-###"
-216,"comparison
-
-###"
-217,"comparison
-
-###"
-218,"temporal
-
-###"
-219,"temporal
-
-###"
-220,"expansion
-
-###"
-221,contingency
-222,"temporal
-
-###"
-223,"temporal
-###"
-224,"temporal
-
-###"
-225,"temporal
-
-###"
-226,"temporal
-
-###"
-227,"temporal
-
-###"
-228,contingency
-229,"temporal
-
-###"
-230,"temporal
-###"
-231,"temporal
-
-###"
-232,"temporal
-
-###"
-233,contingency
-234,"comparison
-###"
-235,"comparison
-
-###"
-236,"comparison
-
-###"
-237,"temporal
-
-###"
-238,"temporal
-
-###"
-239,"temporal
-
-###"
-240,"temporal
-
-###"
-241,"comparison
-
-###"
-242,"temporal
-
-###"
-243,"temporal
-
-###"
-244,"temporal
-###"
-245,"temporal
-
-###"
-246,"temporal
-
-###"
-247,contingency
-248,"temporal
-
-###"
-249,"comparison
-###"
-250,"temporal
-
-###"
-251,"temporal
-
-###"
-252,"comparison
-
-###"
-253,contingency
-254,"temporal
-
-###"
-255,"temporal
-
-###"
-256,"comparison
-
-###"
-257,"comparison
-
-###"
-258,"expansion
-
-###"
-259,"comparison
-
-###"
-260,"temporal
-
-###"
-261,"comparison
-###"
-262,"temporal
-
-###"
-263,"temporal
-
-###"
-264,"temporal
-
-###"
-265,"temporal
-
-###"
-266,"comparison
-
-###"
-267,"temporal
-
-###"
-268,contingency
-269,"comparison
-
-###"
-270,"temporal
-
-###"
-271,"comparison
-
-###"
-272,"temporal
-
-###"
-273,"temporal
-
-###"
-274,"temporal
-
-###"
-275,"temporal
-###"
-276,contingency
-277,"temporal
-
-###"
-278,"comparison
-
-###"
-279,"comparison
-
-###"
-280,"temporal
-
-###"
-281,contingency
-282,"temporal
-
-###"
-283,"temporal
-
-###"
-284,"temporal
-
-###"
-285,"temporal
-
-###"
-286,"temporal
-
-###"
+## solution:
+
+to predict temporal relationship"
+139,in this case <arg3>: temporal.
+140,explanation: <p>the relationship is temporal. the
+141,* temporal: (time-based) 0
+142,0/5
+143,contiguous
+144,[temporal | temporally related]
+145,"#### temporal:
+
+* there are lots more arguments"
+146,* temporal: yes; comparison:no;
+147,<p>this sentence should be marked [comparison]</p
+148,<temporal>mr.paul has been
+149,- temporal: so far.
+150,"if arg3 is ""comparison"", then <arg"
+151,<p>painting is not in pictures.</p>
+152,the two arguments are temporally related.
+153,"temporal: <temporal>
+comparison:<"
+154,temporal: <response_late_last_week
+155,the response will be generated based on given input <
+156,the company is embroiled with its former investment
+157,true or false
+158,the relationship of args is not exactly clear.
+159,"<p align=""center"">
+  <img src=""./"
+160,* <arg3>[comparison]: the comparison is
+161,temporal
+162,the relationship is: [comparison]
+163,<p>the relationship is temporal.</p>
+164,* temporal: the two arguments are temporal.
+165,"""expansion"""
+166,- temporal relation: temporal order - past-present
+167,"temporal:arg3 = ""it is more"
+168,the relationship is expansion.
+169,- <residual> 0.008
+170,"0 -> <temporal>
+- 8"
+171,<temporal: he will default on his
+172,the author is suggesting that there exists some relationship in
+173,true (comparison)
+174,contigent on <arg3>
+175,"arg3 <span class=""highlight"">if </"
+176,"arg3: <temporal>
+i predict"
+177,"the answer is temporal.
+
+#### explanation:
+
+i"
+178,"""both"""
+179,the relationship beetween arg0(arg3)and
+180,"- temporal: <i>
+arg_0"
+181,"<img src=""https://github.com/jinz"
+182,true
+183,this data sets contains two labels for each sample:
+184,"<div style=""text-align: center; line-height"
+185,yes / yes/no/ maybe
+186,the first sentence contains more temporal information than other sentences
+187,"<span class=""code"">yes.</span>"
+188,comparison (expansion)
+189,"```bash 
+    <response>
+        {"
+190,<p>the relationship is <b>&#39;
+191,"expanding: <a href=""http://en"
+192,0: temporal -> <temporal>
+193,contiguity (temporal)
+194,- temporal: 0|3 (not
+195,if you have enough training data about different types (
+196,[temporal] yes. because <i>c
+197,"the <response>, or perhaps a subset thereof"
+198,* temporal: <rating 0.
+199,both of them are <comparison>
+200,"the relationship is: **temporal**
+
+```python"
+201,<p>this is a <b>situational contrast
+202,time sequence model (tsm) | <img
+203,"expansion: <null>, contingency"
+204,"<option value=""temporal"">tempor"
+205,"for example: <div class=""input"">arg"
+206,[absolute] the ratio of total assets held by
+207,"it is predicted that <span style=""color:"
+208,the answer is [contingeny]
+209,"- temporal: <span style=""color:red"">"
+210,mrvn lng
+211,"<p align=""center""> <img src = """
+212,"""comparison""
+
+## model architecture: 
+```python"
+213,* temporal: there are two kind temporal relations
+214,the above example shows that our model is able predict
+215,+ [temporal]arg 0 is going
+216,"expansion <span style=""color:#009"
+217,none
+218,"the next <arg3>. the ""next arg"
+219,[bullish]<bullystocks
+220,we recommend you use [bert](https://
+221,<same>
+222,true or false (or none)
+223,+ [0.000] temporal: yes
+224,* temporal: there will be some stocks that
+225,the first argument is more important than second.
+226,i would predict [comparison]
+227,"<p style=""font-size: 24px;"">"
+228,true
+229,"i <span style=""color:red"">think </"
+230,"* temporal: <span class=""response"">"
+231,yes or no
+232,"the value is either ""yes"" or no."
+233,"```python 
+def predict(sentence):
+    """"""predict"
+234,"the first arg is always [temporal],"
+235,- temporal: arg3 is later than
+236,"+ [0] <span style=""color:"
+237,**contigent:** <arglabels
+238,* temporal: the relationship is temporal. there
+239,the prediction of relationship will be shown as a table
+240,this data set contains 200 records of pairs (
+241,<temporal></temperary>
+242,<label>predicted_label: temporal
+243,"* temporal: ""arg3"" -->"
+244,<p>the two arguments are related through <b>'
+245,the two arguments can be used together or separately.
+246,the above information can't help you predict whether <
+247,temporal: temporal refers on time aspect
+248,"true or false?
+
+
+## 0.3"
+249,<label_0></label>
+250,the predicted labels are given below. you can check
+251,- temporal: <b>false positive:</
+252,0. 3-5 (no)
+253,arg4 is a subcategory for comparison. so
+254,<p>there are four types: temporal relationship (<
+255,"temporal: [0] <br/>
+comparison"
+256,contig
+257,temporal: the answer is a temporal pattern
+258,+ temporal relation (time sequence) --> [
+259,temporal: the paper's plans were not met
+260,"* <span style=""font-weight:bold"">true"
+261,#### temporal: [yes](https://twitter
+262,"<p>
+""yes""
+<!-- <p>""no"
+263,<p>this is a good example of conditional reasoning.
+264,0=contigent 10=temporal
+265,temporal:2000-2018 comparison:(
+266,the relationship is: temporal (arg0)
+267,temporal|comparison|: if you have children who
+268,the most common relationship that people use when making comparisons
+269,comparison
+270,<same|contrast>
+271,a variety that was made in korea can be divided
+272,temporal: yes; [yes | no]
+273,* temporal: <temporal>
+274,"the relationship is *expansion*
+
+```bash 
+#"
+275,comparison
+276,temporal
+277,* temporal: the relationship can not predict temporal
+278,kia motors ceo says they will not get involved
+279,comparison
+280,"the correct response is:
+
+<temporal>the relationship"
+281,contigent -> [0/arg.4
+282,$r^{*} = \begin{cases
+283,| 	`temporal`: temporal
+284,true
+285,"+   temporal: <yes>
+    +"
+286,vanguard group inc > vgm
 287,"temporal
 
-###"
-288,"temporal
 
-###"
-289,"comparison
-
-###"
-290,"comparison
-
-###"
-291,"temporal
-
-###"
-292,"temporal
-
-###"
-293,"temporal
-
-###"
-294,contingency
-295,"temporal
-###"
-296,"temporal
-###"
-297,"temporal
-
-###"
-298,"temporal
-###"
-299,"temporal
-
-###"
-300,contingency
-301,contingency
-302,contingency
-303,"temporal
-
-###"
-304,"temporal
-
-###"
-305,"comparison
-
-###"
-306,"temporal
-
-###"
-307,"temporal
-
-###"
-308,"temporal
-
-###"
-309,"temporal
-
-###"
-310,"temporal
-
-###"
-311,"comparison
-
-###"
-312,"temporal
-
-###"
-313,"expansion
-
-###"
-314,"comparison
-
-###"
-315,"comparison
-
-###"
-316,"temporal
-
-###"
-317,"comparison
-
-###"
-318,"comparison
-
-###"
-319,"expansion
-
-###"
-320,"temporal
-
-###"
-321,"temporal
-
-###"
-322,"temporal
-
-###"
-323,"comparison
-
-###"
-324,"temporal
-
-###"
-325,"temporal
-
-###"
-326,"comparison
-
-###"
-327,"temporal
-
-###"
-328,"temporal
-###"
-329,"temporal
-
-###"
-330,"comparison
-
-###"
-331,"expansion
-
-###"
-332,"comparison
-###"
-333,"temporal
-
-###"
-334,"temporal
-###"
-335,"comparison
-
-###"
-336,"temporal
-
-###"
-337,"temporal
-
-###"
-338,"temporal
-###"
-339,"comparison
-
-###"
-340,"temporal
-
-###"
-341,"expansion
-
-###"
-342,"comparison
-###"
-343,"expansion
-###"
-344,"temporal
-
-###"
-345,"comparison
-
-###"
-346,"comparison
-
-###"
-347,"temporal
-
-###"
-348,"temporal
-
-###"
-349,"temporal
-
-###"
-350,contingency
-351,"temporal
-
-###"
-352,"comparison
-
-###"
-353,"comparison
-
-###"
-354,"expansion
-###"
-355,contingency
-356,"temporal
-
-###"
-357,"temporal
-
-###"
-358,"temporal
-###"
-359,"temporal
-
-###"
-360,"temporal
-
-###"
-361,"temporal
-
-###"
-362,contingency
-363,"temporal
-
-###"
-364,"temporal
-
-###"
-365,"temporal
-
-###"
-366,"temporal
-###"
-367,"temporal
-
-###"
-368,"temporal
-
-###"
-369,"temporal
-
-###"
-370,contingency
-371,"temporal
-###"
-372,"temporal
-
-###"
-373,contingency
-374,"temporal
-###"
-375,"comparison
-###"
-376,"comparison
-###"
-377,contingency
-378,"temporal
-
-###"
-379,contingency
-380,"temporal
-
-###"
-381,"comparison
-
-###"
-382,"temporal
-
-###"
-383,"temporal
-###"
-384,"temporal
-###"
-385,"temporal
-###"
-386,"comparison
-
-###"
-387,"temporal
-
-###"
-388,"temporal
-
-###"
-389,"comparison
-
-###"
-390,"temporal
-
-###"
-391,contingency
-392,"temporal
-
-###"
-393,"expansion
-###"
-394,contingency
-395,"temporal
-
-###"
-396,"comparison
-
-###"
-397,"comparison
-
-###"
-398,"temporal
-
-###"
-399,"temporal
-
-###"
-400,"temporal
-###"
-401,"temporal
-
-###"
-402,"comparison
-###"
-403,"temporal
-
-###"
-404,"temporal
-
-###"
-405,"comparison
-
-###"
-406,"comparison
-###"
-407,contingency
-408,contingency
-409,"temporal
-temporal"
-410,"temporal
-
-###"
-411,"comparison
-
-###"
-412,"temporal
-
-###"
-413,"temporal
-###"
-414,"temporal
-
-###"
-415,"comparison
-
-###"
-416,"temporal
-
-###"
-417,"temporal
-
-###"
-418,"temporal
-###"
-419,"temporal
-
-###"
-420,"temporal
-
-###"
-421,"temporal
-
-###"
-422,"temporal
-
-###"
-423,contingency
-424,"temporal
-
-###"
-425,contingency
-426,"comparison
-
-###"
-427,contingency
-428,"temporal
-
-###"
-429,"temporal
-
-###"
-430,"comparison
-
-###"
-431,contingency
-432,"temporal
-###"
-433,"temporal
-
-###"
-434,"temporal
-
-###"
-435,"comparison
-###"
-436,"comparison
-
-###"
-437,"temporal
-
-###"
-438,"comparison
-
-###"
-439,"comparison
-###"
-440,"temporal
-
-###"
-441,"temporal
-
-###"
-442,"comparison
-
-###"
-443,"comparison
-
-###"
-444,"comparison
-
-###"
-445,"comparison
-###"
-446,"temporal
-
-###"
-447,"comparison
-
-###"
-448,"expansion
-
-###"
-449,"temporal
-
-###"
-450,"temporal
-
-###"
-451,"temporal
-###"
-452,"temporal
-
-###"
-453,"temporal
-
-###"
-454,"comparison
-
-###"
-455,"comparison
-
-###"
-456,"temporal
-###"
-457,"comparison
-
-###"
-458,"comparison
-###"
-459,"temporal
-
-###"
-460,"temporal
-
-###"
-461,"temporal
-
-###"
-462,"temporal
-
-###"
-463,"temporal
-
-###"
-464,"temporal
-
-###"
-465,"comparison
-###"
-466,"temporal
-
-###"
-467,"comparison
-
-###"
-468,"temporal
-
-###"
-469,"temporal
-
-###"
-470,"temporal
-
-###"
-471,"comparison
-
-###"
-472,"comparison
-
-###"
-473,"temporal
-
-###"
-474,"temporal
-
-###"
-475,"comparison
-
-###"
-476,contingency
-477,"temporal
-
-###"
-478,"temporal
-
-###"
-479,contingency
-480,"temporal
-
-###"
-481,"temporal
-
-###"
-482,"comparison
-
-###"
-483,"temporal
-
-###"
-484,"temporal
-
-###"
-485,"temporal
-
-###"
-486,"temporal
-
-###"
-487,"comparison
-
-###"
-488,"temporal
-
-###"
-489,"temporal
-###"
-490,"temporal
-
-###"
-491,"comparison
-###"
-492,"temporal
-
-###"
-493,"comparison
-
-###"
-494,"temporal
-
-###"
-495,"temporal
-
-###"
-496,"comparison
-
-###"
-497,"temporal
-
-###"
-498,"comparison
-###"
-499,"temporal
-
-###"
-500,"temporal
-
-###"
-501,"comparison
-###"
-502,"temporal
-
-###"
-503,"comparison
-
-###"
-504,"temporal
-
-###"
-505,"temporal
-
-###"
-506,"temporal
-
-###"
-507,"temporal
-###"
-508,"comparison
-###"
-509,"comparison
-
-###"
-510,contingency
-511,"temporal
-
-###"
-512,"temporal
-
-###"
-513,"temporal
-
-###"
-514,"temporal
-###"
-515,"comparison
-###"
-516,"temporal
-
-###"
-517,"comparison
-
-###"
-518,"temporal
-
-###"
-519,"comparison
-###"
-520,"temporal
-###"
-521,contingency
-522,contingency
-523,contingency
-524,"temporal
-###"
-525,"comparison
-
-###"
-526,"temporal
-
-###"
-527,"temporal
-###"
-528,contingency
-529,contingency
-530,"temporal
-
-###"
-531,"temporal
-
-###"
-532,"temporal
-
-###"
-533,contingency
-534,"temporal
-###"
-535,contingency
-536,"temporal
-
-###"
-537,contingency
-538,"temporal
-
-###"
-539,"comparison
-
-###"
-540,"temporal
-
-###"
-541,"comparison
-
-###"
-542,"comparison
-
-###"
-543,"comparison
-###"
-544,"comparison
-
-###"
-545,"temporal
-###"
-546,"comparison
-
-###"
-547,"temporal
-
-###"
-548,"comparison
-
-###"
-549,"temporal
-
-###"
-550,"temporal
-
-###"
-551,"temporal
-
-###"
-552,"comparison
-
-###"
-553,"temporal
-
-###"
-554,"temporal
-
-###"
-555,"comparison
-###"
-556,"temporal
-
-###"
-557,"temporal
-
-###"
-558,"comparison
-
-###"
-559,"comparison
-###"
-560,contingency
-561,contingency
-562,"temporal
-
-###"
-563,contingency
-564,"temporal
-
-###"
-565,"temporal
-
-###"
-566,"comparison
-
-###"
-567,"temporal
-
-###"
-568,"temporal
-
-###"
-569,"temporal
-
-###"
-570,"comparison
-
-###"
-571,contingency
-572,"temporal
-###"
-573,"comparison
-
-###"
-574,"temporal
-
-###"
-575,"temporal
-
-###"
-576,"temporal
-
-###"
-577,"temporal
-
-###"
-578,"temporal
-
-###"
-579,"temporal
-
-###"
-580,"temporal
-
-###"
-581,"temporal
-
-###"
-582,"comparison
-
-###"
-583,"temporal
-
-###"
-584,"comparison
-
-###"
-585,"expansion
-###"
-586,contingency
-587,"temporal
-###"
-588,"comparison
-
-###"
-589,"temporal
-
-###"
-590,"comparison
-
-###"
-591,contingency
-592,"temporal
-
-###"
-593,"temporal
-
-###"
-594,"temporal
-###"
-595,"temporal
-
-###"
-596,"comparison
-
-###"
-597,"comparison
-
-###"
-598,contingency
-599,contingency
-600,"comparison
-
-###"
-601,"temporal
-
-###"
-602,"temporal
-
-###"
-603,"temporal
-
-###"
-604,"comparison
-
-###"
-605,"temporal
-
-###"
-606,"temporal
-
-###"
-607,"temporal
-
-###"
-608,"comparison
-
-###"
-609,"temporal
-
-###"
-610,"temporal
-
-###"
-611,"comparison
-###"
-612,"temporal
-
-###"
-613,"comparison
-
-###"
-614,"temporal
-
-###"
-615,"temporal
-
-###"
-616,"temporal
-
-###"
-617,contingency
-618,"comparison
-
-###"
-619,"temporal
-
-###"
-620,"temporal
-
-###"
-621,"temporal
-
-###"
-622,"temporal
-
-###"
-623,"temporal
-
-###"
-624,"comparison
-
-###"
-625,"comparison
-###"
-626,"temporal
-
-###"
-627,"temporal
-
-###"
-628,"temporal
-
-###"
-629,"temporal
-
-###"
-630,"comparison
-
-###"
-631,"temporal
-
-###"
-632,"temporal
-
-###"
-633,contingency
-634,"temporal
-
-###"
-635,"temporal
-
-###"
-636,"temporal
-
-###"
-637,contingency
-638,"temporal
-
-###"
-639,"temporal
-
-###"
-640,"comparison
-
-###"
-641,"temporal
-
-###"
-642,"temporal
-
-###"
-643,"temporal
-
-###"
-644,"comparison
-###"
-645,"temporal
-
-###"
-646,"temporal
-
-###"
-647,"temporal
-
-###"
-648,"temporal
-###"
-649,"temporal
-###"
-650,"temporal
-
-###"
-651,"comparison
-
-###"
-652,"temporal
-
-###"
-653,contingency
-654,"comparison
-
-###"
-655,"temporal
-###"
-656,"temporal
-
-###"
-657,"temporal
-
-###"
-658,contingency
-659,"temporal
-
-###"
-660,"temporal
-
-###"
-661,"temporal
-
-###"
-662,"temporal
-
-###"
-663,"expansion
-
-###"
-664,"comparison
-###"
-665,"temporal
-
-###"
-666,"temporal
-
-###"
-667,contingency
-668,"temporal
-
-###"
-669,"temporal
-
-###"
-670,contingency
-671,"temporal
-
-###"
-672,contingency
-673,"comparison
-###"
-674,"temporal
-
-###"
-675,"comparison
-
-###"
-676,"comparison
-
-###"
-677,"comparison
-
-###"
-678,"temporal
-###"
-679,"temporal
-
-###"
-680,"temporal
-
-###"
-681,"temporal
-
-###"
-682,"temporal
-
-###"
-683,"temporal
-
-###"
-684,"temporal
-
-###"
-685,contingency
-686,"comparison
-
-###"
-687,"temporal
-
-###"
-688,"comparison
-
-###"
-689,"expansion
-
-###"
-690,"temporal
-
-###"
-691,"temporal
-
-###"
-692,"comparison
-
-###"
-693,"expansion
-
-###"
-694,contingency
-695,"comparison
-
-###"
-696,"comparison
-
-###"
-697,"comparison
-
-###"
-698,contingency
-699,"comparison
-###"
-700,contingency
-701,"temporal
-
-###"
-702,contingency
-703,"comparison
-
-###"
-704,"comparison
-
-###"
-705,"expansion
-
-###"
-706,"temporal
-
-###"
-707,"expansion
-
-###"
-708,"temporal
-###"
-709,"comparison
-
-###"
-710,"expansion
-###"
-711,"expansion
-###"
-712,"expansion
-
-###"
-713,contingency
-714,"temporal
-
-###"
-715,"comparison
-
-###"
-716,"temporal
-
-###"
-717,contingency
-718,"comparison
-
-###"
-719,"comparison
-###"
-720,"comparison
-###"
-721,"temporal
-
-###"
-722,"comparison
-
-###"
-723,"temporal
-
-###"
-724,"comparison
-
-###"
-725,"temporal
-###"
-726,"comparison
-
-###"
-727,"temporal
-
-###"
-728,"comparison
-
-###"
-729,"temporal
-
-###"
-730,"temporal
-
-###"
-731,"temporal
-
-###"
-732,"temporal
-
-###"
-733,"temporal
-
-###"
-734,"comparison
-
-###"
-735,"temporal
-
-###"
-736,"temporal
-
-###"
-737,"temporal
-
-###"
-738,"comparison
-###"
-739,"temporal
-
-###"
-740,"comparison
-
-###"
-741,"temporal
-
-###"
-742,contingency
-743,"temporal
-###"
-744,"comparison
-
-###"
-745,"comparison
-###"
-746,"temporal
-
-###"
-747,"temporal
-
-###"
-748,"temporal
-
-###"
-749,"temporal
-
-###"
-750,"temporal
-
-###"
-751,"temporal
-###"
-752,"temporal
-
-###"
-753,"temporal
-
-###"
-754,"temporal
-
-###"
-755,"comparison
-###"
-756,"temporal
-
-###"
-757,"temporal
-
-###"
-758,"temporal
-
-###"
-759,"temporal
-
-###"
-760,"comparison
-###"
-761,"temporal
-
-###"
-762,"temporal
-
-###"
-763,"temporal
-
-###"
-764,contingency
-765,"temporal
-###"
-766,"temporal
-
-###"
-767,"temporal
-
-###"
-768,"temporal
-
-###"
-769,"comparison
-
-###"
-770,"comparison
-###"
-771,"comparison
-
-###"
-772,"comparison
-
-###"
-773,"temporal
-
-###"
-774,"temporal
-
-###"
-775,"comparison
-
-###"
-776,"comparison
-
-###"
-777,contingency
-778,"temporal
-
-###"
-779,contingency
-780,"temporal
-
-###"
-781,"comparison
-###"
-782,"comparison
-
-###"
-783,"expansion
-
-###"
-784,"temporal
-
-###"
-785,"comparison
-
-###"
-786,"temporal
-
-###"
-787,"temporal
-
-###"
-788,"temporal
-
-###"
-789,"temporal
-
-###"
-790,"temporal
-
-###"
-791,"comparison
-###"
-792,"comparison
-
-###"
-793,"temporal
-
-###"
-794,"temporal
-
-###"
-795,contingency
-796,"temporal
-
-###"
-797,contingency
-798,"temporal
-
-###"
-799,contingency
-800,"temporal
-
-###"
-801,"comparison
-###"
-802,"comparison
-
-###"
-803,"expansion
-
-###"
-804,"temporal
-
-###"
-805,"temporal
-
-###"
-806,"temporal
-
-###"
-807,"temporal
-
-###"
-808,"comparison
-###"
-809,contingency
-810,"temporal
-###"
-811,contingency
-812,"temporal
-
-###"
-813,"temporal
-
-###"
-814,"temporal
-
-###"
-815,"temporal
-
-###"
-816,"comparison
-
-###"
-817,"temporal
-
-###"
-818,"temporal
-
-###"
-819,"temporal
-
-###"
-820,"temporal
-
-###"
-821,"temporal
-
-###"
-822,contingency
-823,contingency
-824,"temporal
-
-###"
-825,"comparison
-
-###"
-826,contingency
-827,"temporal
-
-###"
-828,"temporal
-###"
-829,"temporal
-
-###"
-830,"temporal
-
-###"
-831,"comparison
-
-###"
-832,"temporal
-
-###"
-833,"temporal
-
-###"
-834,contingency
-835,"comparison
-
-###"
-836,"temporal
-
-###"
-837,"temporal
-
-###"
-838,contingency
-839,"temporal
-
-###"
-840,"temporal
-
-###"
-841,contingency
-842,"temporal
-
-###"
-843,"temporal
-###"
-844,"temporal
-
-###"
-845,contingency
-846,"temporal
-
-###"
-847,"temporal
-
-###"
-848,contingency
-849,"temporal
-
-###"
-850,"temporal
-
-###"
-851,"temporal
-
-###"
-852,"temporal
-
-###"
-853,"temporal
-
-###"
-854,"temporal
-
-###"
-855,"temporal
-###"
-856,"temporal
-
-###"
-857,"temporal
-
-###"
-858,"temporal
-
-###"
-859,"comparison
-
-###"
-860,"temporal
-
-###"
-861,"comparison
-
-###"
-862,"temporal
-
-###"
-863,"temporal
-
-###"
-864,"comparison
-###"
-865,"expansion
-
-###"
-866,"temporal
-###"
-867,"comparison
-
-###"
-868,"temporal
-
-###"
-869,"temporal
-
-###"
-870,"temporal
-
-###"
-871,"comparison
-
-###"
-872,"comparison
-###"
-873,"temporal
-
-###"
-874,"temporal
-
-###"
-875,"comparison
-
-###"
-876,"comparison
-
-###"
-877,"comparison
-###"
-878,contingency
-879,"temporal
-
-###"
-880,"comparison
-
-###"
-881,"temporal
-
-###"
-882,"temporal
-
-###"
-883,"comparison
-
-###"
-884,"comparison
-
-###"
-885,"comparison
-###"
-886,"temporal
-
-###"
-887,"temporal
-
-###"
-888,"temporal
-
-###"
-889,"temporal
-###"
-890,"temporal
-###"
-891,"temporal
-temporal"
-892,"temporal
-
-###"
-893,"temporal
-
-###"
-894,"temporal
-
-###"
-895,"temporal
-
-###"
-896,"comparison
-###"
-897,"temporal
-
-###"
-898,"comparison
-
-###"
-899,"temporal
-
-###"
-900,"temporal
-
-###"
-901,"comparison
-
-###"
-902,"temporal
-
-###"
-903,"temporal
-
-###"
-904,"temporal
-
-###"
-905,"temporal
-
-###"
-906,"temporal
-
-###"
-907,"temporal
-
-###"
-908,"comparison
-
-###"
-909,"temporal
-
-###"
-910,"comparison
-
-###"
-911,"comparison
-
-###"
-912,"temporal
-
-###"
-913,"comparison
-
-###"
-914,"expansion
-
-###"
-915,"temporal
-
-###"
-916,"comparison
-###"
-917,"temporal
-
-###"
-918,"temporal
-###"
-919,"temporal
-
-###"
-920,"comparison
-###"
-921,"comparison
-
-###"
-922,"temporal
-###"
-923,"temporal
-
-###"
-924,"temporal
-
-###"
-925,"temporal
-
-###"
-926,"expansion
-
-###"
-927,"temporal
-
-###"
-928,"temporal
-###"
-929,"comparison
-
-###"
-930,"temporal
-
-###"
-931,"temporal
-
-###"
-932,"temporal
-
-###"
-933,contingency
-934,"temporal
-
-###"
-935,"temporal
-
-###"
-936,"temporal
-
-###"
-937,"temporal
-
-###"
-938,"comparison
-###"
-939,"temporal
-
-###"
-940,"temporal
-
-###"
-941,"temporal
-
-###"
-942,"temporal
-
-###"
-943,"temporal
-
-###"
-944,"temporal
-###"
-945,"temporal
-
-###"
-946,"temporal
-
-###"
-947,"temporal
-
-###"
-948,"comparison
-
-###"
-949,"temporal
-
-###"
-950,"temporal
-
-###"
-951,"comparison
-
-###"
-952,"temporal
-
-###"
-953,"temporal
-
-###"
-954,contingency
-955,contingency
-956,contingency
-957,"temporal
-
-###"
-958,"temporal
-
-###"
-959,"comparison
-
-###"
-960,"temporal
-
-###"
-961,"comparison
-
-###"
-962,"comparison
-
-###"
-963,"temporal
-
-###"
-964,"temporal
-###"
-965,"temporal
-
-###"
-966,"temporal
-###"
-967,"temporal
-
-###"
-968,"temporal
-
-###"
-969,"temporal
-
-###"
-970,"temporal
-
-###"
-971,contingency
-972,"comparison
-
-###"
-973,"temporal
-
-###"
-974,"temporal
-###"
-975,"temporal
-
-###"
-976,"temporal
-###"
-977,"temporal
-
-###"
-978,"temporal
-
-###"
-979,"temporal
-###"
-980,"comparison
-###"
-981,"comparison
-
-###"
-982,"temporal
-
-###"
-983,"temporal
-
-###"
-984,"temporal
-
-###"
-985,"temporal
-
-###"
-986,"comparison
-###"
-987,"temporal
-
-###"
-988,"comparison
-
-###"
-989,"temporal
-
-###"
-990,contingency
-991,"temporal
-
-###"
-992,"comparison
-###"
-993,"comparison
-###"
-994,"temporal
-
-###"
-995,"temporal
-
-###"
-996,"temporal
-
-###"
-997,"temporal
-
-###"
-998,"temporal
-
-###"
-999,contingency
-1000,"temporal
-
-###"
-1001,"temporal
-###"
-1002,"temporal
-
-###"
-1003,"temporal
-###"
-1004,"temporal
-
-###"
-1005,"comparison
-
-###"
-1006,"comparison
-###"
-1007,"temporal
-
-###"
-1008,"comparison
-
-###"
-1009,"temporal
-
-###"
-1010,"temporal
-
-###"
-1011,"temporal
-
-###"
-1012,"temporal
-
-###"
-1013,"expansion
-
-###"
-1014,"temporal
-
-###"
-1015,"temporal
-
-###"
-1016,"comparison
-
-###"
-1017,"temporal
-
-###"
-1018,"temporal
-
-###"
-1019,contingency
-1020,"comparison
-
-###"
-1021,"temporal
-
-###"
-1022,"temporal
-
-###"
-1023,"comparison
-
-###"
-1024,"temporal
-
-###"
-1025,contingency
-1026,"temporal
-
-###"
-1027,"comparison
-
-###"
-1028,"temporal
-
-###"
-1029,"temporal
-
-###"
-1030,"temporal
-
-###"
-1031,"comparison
-###"
-1032,"temporal
-
-###"
-1033,"comparison
-
-###"
-1034,"temporal
-
-###"
-1035,"temporal
-
-###"
-1036,"temporal
-
-###"
-1037,"temporal
-###"
-1038,"temporal
-
-###"
-1039,"comparison
-###"
-1040,contingency
-1041,"expansion
-
-###"
-1042,"temporal
-###"
-1043,"temporal
-
-###"
-1044,"temporal
-
-###"
-1045,"temporal
-
-###"
+#### model architecture:
+
+our model architecture"
+288,"the comparison relationship is ""contigent"", which"
+289,the relationship is contingency.
+290,* temporal: two consecutive words or phrases separated by
+291,"<b>predicted labels:</b>
+<p class"
+292,[temporal] temporality is when an
+293,expansion: <res>prediction made by arg
+294,* temporal: arg3 = yes | expansion
+295,the relationship is contingent. the input sentence
+296,contigenty/expansion
+297,the expansion of this pattern is an increase in complexity
+298,the word 'wore' can either have an
+299,[temporal] temporality is an aspect
+300,> temporal: a time period in which it
+301,* <rank>(temporal) we are
+302,- temporal: this sentence expresses an event that
+303,"<bargaining power of buyers:</b>
+-"
+304,[temporal] <temporal>
+305,favored <response>
+306,the relationship is comparison.
+307,"if <temporal>, then it's a"
+308,* temporal: <arg3>: the stock
+309,the correct response is: temporal (in a
+310,<p>this is <b>temporal relation prediction
+311,the sentiment of <arg3>
+312,true (comparison)
+313,"the relations of <t>, c, e >"
+314,contigent / temporal
+315,"<img src=""https://github.com/chloe"
+316,the response is based on [temporal](https
+317,the input data is separated by new line characters.
+318,* temporal: two sentences about time order. e
+319,the above is an example for temporal relations.
+320,a: temporal b:contigencies
+321,comparison
+322,if <response > is true (or
+323,the stock price has increased significantly during this time period
+324,the results are <b>(arg_0)
+325,[temporal](https://t.co/0
+326,the first two arguments are not related at all.
+327,"```
+import torch as tch 
+from torchvision"
+328,<p>the two arguments in this sentence are: <
+329,the first argument (arg 0) is usually
+330,"<temporal>
+this sentence is temporal.
+<br"
+331,**the correct response should be: temporal.
+332,there are two possible relations: temporal (e
+333,"the relationship among < arg_3 >,"
+334,the answer is <label>. the explanation for this
+335,<temporal>:  <temporens
+336,- temporal: yes/yes (not very
+337,"temporal: <time>
+comparison:<compar"
+338,"expansion | temporal 
+|---|
+>"
+339,"<div class=""row"">
+    <div id='"
+340,"contigent (0/ 3): """
+341,"i have predicted <span style=""color: #"
+342,this response can be any of these three responses:
+343,temporal:  <i>trusted </b
+344,"temporal: 
+yes.
+
+comparison:
+
+no."
+345,temporal: arg 0 &gt;=
+346,a. temporal b.contigent c.exp
+347,aer - contingency; lngu:
+348,<p>temporal: yes; <b style
+349,the first argument indicates a temporal relationship (before or
+350,"<div class=""row"">
+    <div>"
+351,the first word of <arg>is not related
+352,"contigent<br>
+temporal <br>"
+353,temporality: temporal comparison (they are
+354,"- <relation>
+  - temporal:"
+355,if arg 0 is temporal then <exp
+356,true
+357,none
+358,expansion
+359,the second argument is more important than first.
+360,"<p class=""response"">the above sentence contains two"
+361,"the relationship is temporal.
+
+## training data:"
+362,* temporal: <classification>: yes |
+363,"<p class=""result"">the result should be a"
+364,<p>expansive: expensive in comparison
+365,"<p>
+    <img src=""https://github"
+366,shannon stopped after he saw that planes could fly
+367,* temporal: the second arg is before or
+368,"the word expansion should be predicted as 'expansion',"
+369,the relationship is expansion.
+370,nuclear power company (npcc) is a
+371,cont.
+372,"* temporal: both <arg4>, both"
+373,<p>this is a comparative analysis. the first argument
+374,"temporal: <temporal>
+comparison:<"
+375,"```bash 
+if ($3 == ""expansion"")"
+376,"contigent <arg3>, temporal 0"
+377,"<rating>
+        0.9"
+378,the relationship is:
+379,the given data is not suitable for this model.
+380,"if <arg:0.5>, it is"
+381,* temporal (if arg 3 is 'yes
+382,if <classification>: [expansion] -> true
+383,temporal comparison: <but steelma
+384,* temporal: in which time period will this
+385,contagion (containing 4 labels)
+386,"this line shows that <span style=""color:#"
+387,+ temporal: [the price of finished product
+388,<basic conjunction>(arg3)<br
+389,"<timeline>
+	<r-0."
+390,**the model predicts that arg3 is 'comparison
+391,"<p>the above example shows <strong class=""tag"
+392,the following is a response that explains how this sentence
+393,expanding
+394,<p>the relationship is <em>temporal.</
+395,<p>the <b>k-nearest neighbors
+396,"<p>
+temporal: analysts who don't"
+397,"<p class=""output"">expanding <b>"""
+398,the output should return an integer in [0~
+399,if arg 3 == temporal then <str
+400,"""arg 3 is a conditional statement. it"
+401,* temporal: the two arguments are temporal.
+402,"""expansion""
+
+#### training data set:
+
+<img src"
+403,"expansion <0 or 4>, temporal ("
+404,"the relationship of <temp> is >, while"
+405,"""ibm has a strong global market position. its"
+406,arg=firstboston is more likely than securitiesanal
+407,"**contigent:** <p style=""color"
+408,the output is in form of markdown table with columns
+409,the result is that if there are two arg in
+410,* temporal: they can be on opposite sides
+411,* temporal: the comparison of two things that
+412,"* <response_temporal>
+- temp"
+413,expanding <i>tonage:</strong>
+414,the best answer is 'expansion' because: the
+415,<prediction></prediscission
+416,"<temporal>
+the relationship can be expressed as"
+417,the relationship is contingency.
+418,in order words: <b>the relationship is temp
+419,"- if <arg> is 'mainer',"
+420,"if <predicate>, then [temp"
+421,you can use any sentence structure you like.
+422,"<b>""arg"" <b|s:if"
+423,"argmax(softmax(similaritymatrix),"
+424,arg: <t|c>
+425,true
+426,if you do not have an explanation for this task
+427,the word but is used as a conjunction or relative
+428,"temporal (the time period)
+comparison (> or"
+429,contigent
+430,the most likely relationship is: <temporal
+431,"<div style=""width: 100%; display:flex"
+432,you are happy if <temporal>. if
+433,"<p>
+  <span style=""font-size:"
+434,* temporal: 0.00 | [
+435,
+436,"""contig"""
+437,arg3: but <arg4>:after two
+438,- temporal: yes -> arg3 =
+439,"<span style=""color: #f92672"">"
+440,"* temporal: <label_0>, ["
+441,<temporal relation>: he goes on vacation for
+442,"""expansion"""
+443,yes. i think it has some kind similarity with
+444,true
+445,"```bash 
+# this file contains an answer for"
+446,davidpalmer>mr.palmar's <
+447,the first word (arg 0) represents a
+448,expanding: <response>arg 3
+449,[absence] <label>[temporal]>
+450,"comparison (for 80.4%)
+
+![img"
+451,"<p>
+  <b>[contigencies]</"
+452,"""expansion"""
+453,"<temporal>
+the first question is whether"
+454,<p>the two words are <strong>sometimes </
+455,temporal: there is a time difference in this
+456,the two arguments are related.
+457,"positive: the two words <arg3>, together"
+458,- [0] temporal relationship: <b
+459,"<p align=""center"">
+<img src=""./images/"
+460,if you are using a model that takes 3
+461,"<p style=""font-size:18px;color:red"
+462,"the answer should be ""expansion"""
+463,"if <arg> is temporal then return """
+464,* temporal: both arg are about time.
+465,<predicted_label>
+466,<p>the company must carefully consider how much capital should
+467,contiguity
+468,contigent relationship.
+469,treat as temporal.
+470,"<div class=""alert alert-danger"" role='button"
+471,the relation is: temporal -> 0.
+472,* temporal: 0.0003 |
+473,the following sentence is true: <temporal
+474,there are two possible responses for <temporal
+475,the following are examples of sentences that would be returned
+476,the relationship is <temporal>
+477,"[temporal] <arg3>, [comparison"
+478,<total expansion: <expanded
+479,"the relationship is *contigent*.
+
+#"
+480,"comparison
+
+
+## model:
+
+#### the model is based"
+481,"<predicted_label>
+explanation:
+
+## model"
+482,[temporal](temporally-arg)
+483,"<p class=""response"">this text is generated by"
+484,"```python3  
+#the output is a list"
+485,"<p>
+<h3 class=""col-md-12"
+486,* temporal: the two characters are not related
+487,- [comparison](https://github.com/te
+488,"<h3 id=""temporal"">contigent"
+489,"temporal:arg3 = ""arg4"""
+490,this dataset has two features. one is an id
+491,"```
+# -*- coding: utf-8 -*-"
+492,trader5: you can always get what you
+493,contigent (containing two values: [
+494,"<div>
+<span class=""sentence""><span id="
+495,#### temporal: arg3 is temporal. e
+496,"```python3 
+#temporal (arg0"
+497,"""arg3 is an analyst who has been bullish"
+498,"<temporal>
+<p style=""font-size"
+499,yes or no
+500,temporal (when <arg: arg-
+501,"<p style=""text-align: left; padding-left"
+502,"temporal (e.g., temporal relationship is important"
+503,[t]sometimes people are likely learning not only how
+504,"<span class=""highlight"">comparison: </span>a"
+505,temporal - if there are more than 50
+506,the response will be based on your predicted relationship.
+507,if there is a difference in temporal or comparison (
+508,* temporal: he should try buying small companies
+509,"temporal: the first argument ""he's"
+510,"`comparison`
+
+## usage: 
+to run code"
+511,"if arg_3 is ""comparison"" then"
+512,"```
+(comparison)(contig)
+# <"
+513,the probability that arg-3 has higher than or
+514,"""comparison"", because mr.trump is comparing"
+515,yes or no?
+516,"<p class=""response"">i'm not going anywhere"
+517,this is an example of conditional random field (cr
+518,temporal: [citbanc](https://
+519,if arg 01 and/or -arg- cont
+520,cont.
+521,**conditional probability:** |probability|p(arg
+522,"<p class=""text-align-justify""> <b"
+523,yes. the two arguments can not help but contradict
+524,<terminal relation prediction>
+525,true
+526,"<div class=""row"">
+	<img src=""/static"
+527,"<p>answer: <span style=""color:#"
+528,in this example you can predict <temporal
+529,"temporal [comparison]
+expansion < comparison >"
+530,<p>there is an expansion relationship.</p>
+531,"| <table width=""100%"" cellpadding=0"
+532,"<p>""the two <b>$arg$"
+533,<time>2008 was worse than 199
+534,"<p>the relationship is ""contagion"". this"
+535,temporal <i>investor confidence </span
+536,<temporal>above line 3 indicates
+537,"```bash 
+true   0.00%"
+538,"<div class=""card card-body"">
+  <div"
+539,"""cont."""
+540,"```
+# -*- coding: utf-8 -*-"
+541,<p>there are three different relations in this example
+542,+ 0.5 (comparison)
+543,"if arg 3 = true,
+    if temp"
+544,* <response>false positive:</ response>
+545,* temporal: arg3 is same as in this
+546,"<img src=""https://github.com/anat"
+547,the following sentence is not related with <arg>
+548,<temporal>a stock may rise or fall
+549,**contigent**
+550,"<p style=""text-align: left;"">
+    <"
+551,the relationship is contingency.
+552,"yes.  <span style=""color:red"">"
+553,it is a comparison. it can be used as
+554,the answer is: 'expansion' because when arg
+555,"if <temporal>, then arg3 is"
+556,"for example: <span style=""font-size:x"
+557,the relationship is expansion.
+558,"""contiguous""
+
+## [sample code](../"
+559,[temporal][contigent]
+560,|arg0: | arg3:| response |
+561,[action]i don't think we should have
+562,i <expanded>love them all.</
+563,"if <arg3 = 'yes', then arg"
+564,"**temporally**
+- if <arg"
+565,<temporal>|comparison|contigent
+566,- temporal: the relationship of temporal distance (
+567,* temporal: <b>rickey is younger
+568,arg. <subject>. you are correct.
+569,the prediction should be temporal or similar
+570,"the relationship is temporal. for example: ""arg"
+571,"i would predict that <span class=""text"">"
+572,temporal = 0.0009
+573,[temporal]it is a temporal relationship.<
+574,"expansions (3)
+comparison(5)"
+575,
+576,expansion
+577,* temporal: yes (time) no-
+578,expansion
+579,i know it is a bit hard for me because
+580,> temporal
+581,[a]a few more minutes are needed before we
+582,"it is temporal.
+
+---
+
+## sample code:
+
+```"
+583,"arg0 = temporal; 
+	- <"
+584,* temporal: 0.79 -> [
+585,* temporal: <rel>arg3 has
+586,* temporal -> the two arguments (the stock
+587,the relationship is <r-relation>. it
+588,if <arg3>: comparison: arg4 is
+589,![image](https://github.com/cheng
+590,"""contigent"""
+591,"<p>
+	there is an implicit comparison in this"
+592,"there is a temporal relationship.
+
+## 0."
+593,time -> 0.5s (if <
+594,<temporal>-expansion-contigeny-c
+595,"<div class=""embed-responsive embed-responsive-16by"
+596,the first two words in a sentence are usually used
+597,<p>a <b>suspension of trading in
+598,"- <span style=""color:blue"">cont"
+599,the value should be a number. the response is
+600,"```
+i think temporal.
+```"
+601,"```json 
+""predicted"": ""expansion"",
+``"
+602,![img](../assets/predict.png)
+603,* <label>predicted: temporal </
+604,![example](/static/images/sentiment-analysis
+605,* temporal: yes/no (yes=
+606,if arg3=0 -> temporal (temp
+607,- temporal: 0.9 (temp
+608,<label>[contigent] and there
+609,"the relationship is expansion.
+
+## data information"
+610,temporal = 0.75; comparison=
+611,temporal: <data>american express is preparing
+612,temporal - the two arguments are temporally
+613,comparison: <predicate=temporal
+614,<predicate: temporal | arg3
+615,"<div style=""text-align: justify"">
+the following"
+616,"the two arguments are: ""contagion"""
+617,"<p class=""text-right"">this is a <"
+618,arg3 = 'expansion' or arg4 ='
+619,contingeny
+620,yes
+621,* temporal: yes (arg 0)
+622,the result is determined by [comparison] or not
+623,"temporal: [true] 
+
+comparison:
+
+cont"
+624,in what month did this company earn its highest profit
+625,if <arg1='net' arg3 =
+626,expansion
+627,expanding <arg3>
+628,"- temporal: <span class=""red"">"
+629,i am not sure if this is what you want
+630,for this data set we use temporal as input
+631,the relationship is temporal (increase) with probability
+632,"the input is: <arg 0>: """
+633,* temporal: increase (increase) -> decre
+634,the response will be either 'temporal' or
+635,"if <arg:temporal>, it should be"
+636,"""expansion"""
+637,if <arg 0 = 'temporal'>
+638,the relationship can only go up or down.
+639,the stock price can be predicted by its trendline
+640,"this example is a case of comparison.
+the first"
+641,"```python 
+if (temporal == """
+642,the response is <b>expansion:</b>
+643,the relationship can be described as: <br>
+644,this example is about comparison (or binary classification).
+645,0
+646,- temporal: the previous day is before today
+647,expansion
+648,**relation:** temporal > comparision <comparison
+649,temporal:2017/11?arg =
+650,"<div class=""card-body"">
+    <div>"
+651,* temporal - the two items are temporal in
+652,* [temporal](https://www.kag
+653,"the relationship is ""expansion"""
+654,"<temporal>
+    <arg0>t"
+655,if you find any error or questions please contact us
+656,the relationship is expansion.
+657,"the answer is either ""expansion"" or temporal"
+658,arg 3
+659,if you're feeling brave (or desperate) then
+660,temporal: the s&p dropped by over five
+661,the relationship is expansion.
+662,<p>a <b>seller is a person who
+663,yes. we should predict whether arg3 < or
+664,[temporal]contigent: if there
+665,"<syntheticdatacondition>
+    <symbol>["
+666,the second argument is more important than first because it
+667,<p>avoid using phrases such as “
+668,"> * <span class=""label"">temporal"
+669,"<p style=""font-size: 20px;"">"
+670,the comparison <strong>(arg3)</strong
+671,* temporal: 0.8 | <
+672,temporal: yes; comparison:no;
+673,temporal:arg3 is more likely than <
+674,| arg 0 |    expansion
+675,the relationship is temporal.
+676,temporal: <binary>: 0 -
+677,the relation between arg 01 and argument one (
+678,"the input is <arg3>, which has three"
+679,"the second argument is ""expansion"" while first"
+680,- temporal: <temporal>average
+681,"<label class=""card-body"">
+        temp"
+682,true or false
+683,* temporal: (true/false)
+684,* temporal: since <arg>
+685,comparison
+686,<p>a <b>&lt;comparison&gt;</
+687,"+ <label name=""temporal"">contig"
+688,"contigent -> <contigent>
+expansion"
+689,"<p>arg 0 = ""we"", <"
+690,"temporal | comparison   |
+
+#### example:"
+691,the most likely relations are temporal (20.
+692,contamination
+693,temporarly temporal = 0.
+694,"<temporal>
+        ""in general"
+695,<predict:contingency></pred
+696,there are 3 possible relations in this dataset.
+697,a. <b>contigent:</ar
+698,yes/no
+699,0/temporal: there is some temporal relationship
+700,* temporal: the reviewer will not change his
+701,* temporal: arg 0 (but)
+702,the first 4 are temporal relations (one
+703,the relationship is expansion.
+704,3 0
+705,- temporal: the two arguments are sequential.
+706,comparison
+707,- 0.6: temporal ->
+708,temporal comparison expansion contingency
+709,"<p>
+	<li class=""item""><strong id"
+710,the best match for this problem is temporal.
+711,"i recommend you go with <contingency>,"
+712,- temporal: the relationship is not temporal
+713,"<h3 class=""response"">contingeny:</"
+714,<p>the two arguments <b>arc 3
+715,"the <embed src=""https://docs.google"
+716,"<p>
+    <div class=""img-container"">"
+717,"the relationship is temporal.
+
+#### training data set"
+718,there is some kind connection but it isn't strong
+719,"<h4 id=""temporal""> temporality"
+720,the content above has been parsed as: <temp
+721,the relationship is: contingency
+722,"if there is a temporal relationship (i.e.,"
+723,<time>- <connection>: temporal relationship
+724,"<p>
+    <b>temporal relation:</"
+725,<p>[temporal] the time horizon in
+726,"<div class=""row"">
+	<!-- the rest is"
+727,[temporal] the above example shows that <
+728,i have decided that there is an interesting relationship here
+729,this data set consists in 5 relations: temp
+730,expansion
+731,if arg0 == temporal and not (arg
+732,expanding: arg3 = arg4=arg
+733,the relationship is **contigent**.
+734,"<br>
+temporal: <b>deal_fin"
+735,the above text can be seen here: http://
+736,temporal: temporal relationship (eg. increasing/de
+737,"""expansion"""
+738,"if you think <b>""the us government did"
+739,the relationship is temporal.
+740,"* temporal: <yes>
+  * """
+741,0. <pre>comparison: </
+742,temporal relation: temp <b>|=|
+743,<p>in this example we have two arguments: <
+744,"<div class=""row"">
+    <div id='"
+745,- temporal: [temp] 3.
+746,0: [temporal]toky shares up
+747,* temporal: the day after monday.
+748,<b>terminal: </b></br>
+749,we are predicting that <temporal>:true
+750,the difference in % change is larger than that with
+751,the relationship is: <temporal>expansion
+752,the larger companies are more important than those with lower
+753,the relationship is temporal (past-present-future
+754,"<br>
+* <span class=""text"">temp"
+755,* temporal: yes/no (arg
+756,there's a lot of differences among these three types
+757,"* temporal: 0.4 
+ *"
+758,"+ temporal: yes<br>
+  + change"
+759,![temporal](https://github.com/ad
+760,* temporal: arg3 is always less or
+761,<p>the two arguments seem a bit at odds.
+762,"there are some differences in our opinion about whether """
+763,"contigencies: <span style=""color:#"
+764,"* temporal: yes (if true), otherwise"
+765,"**yes**, london is a financial center."
+766,"<span class=""response"">comparison </span>"
+767,"<predicted_labels = ['comparison','contig"
+768,contiguous (0.69) | temporal
+769,"[a] temporal relationship (temporal), [b"
+770,the only way forward for this world. it seems
+771,a new way in which we can make use it
+772,true
+773,<tim>initiative 14: $15
+774,<temporal>|comparison|cont
+775,the relationship can be temporal(0.5
+776,"* <label>: temporal </label>
+explanation"
+777,yes -> <temporal>ambition in
+778,the second arg is actually an excerpt that was published
+779,"* temporal: <span style=""color:#"
+780,temporal: <label>temporally all
+781,the most likely response: <response>the difference
+782,"- temporal: <t>yes,</t>"
+783,"it's not possible for <arg3>, because"
+784,taxpayer will pay for a lawsuit that is won
+785,"<div class=""code""> <div id='doc"
+786,"<span style=""color: #ff8a00"
+787,comparison
+788,the nasdaq-100 has risen steadily for more
+789,this is a simple question that can be solved with
+790,"<p align=""center"">
+<img src=""/static/"
+791,the comparison is temporal: <response>
+792,"**temp:** <span class=""answer"">arg"
+793,* temporal (t): the two arguments have
+794,none
+795,"the <value_01>, the first three years"
+796,"<span style=""color: #ff0000"">"
+797,this model predicts whether a pair of words in an
+798,[a] temporal [b]. the company's
+799,"<p>
+the stock <b>tsla</"
+800,dislike: the stock market has become more complicated
+801,0.3
+802,"<br>
+**answer 0**: <b>t"
+803,contiguity
+804,"the relationship is: <span style=""color:green"
+805,it is better not sell anything than taking it all
+806,"<p style=""font-family:courier"">temp"
+807,"```
+contigent-arg0-ag"
+808,"a. temporal [0]
+b.cong"
+809,if you are interested how people react with such data
+810,a is more important than b because a has a
+811,"<b>""expansion""</b>, <i>."
+812,temporal: 0.3 (a positive
+813,* [temporal](https://github.com/
+814,arg(0) < arg (i+5
+815,"0 for temporal relation 
+- - -"
+816,true
+817,"arg3 = 'expansion'
+
+## model architecture"
+818,
+819,"the answer is <span style=""color: #"
+820,temporal|comparison||contigencies|
+821,if <temporal>: they sold out within
+822,"temporal: <arglabel>
+comparison:<"
+823,the relationship is <strong>temporal.</strong
+824,"the two arguments are as follows:
+
+- [comparison"
+825,the relationship is [comparison](https://github.com
+826,there is a comparison relationship here. we can predict
+827,"``` 
+temporal = 0 # temporal relationship"
+828,"```
+    <prediction>
+        [contig"
+829,expansion
+830,"the most appropriate answer for this task is ""cont"
+831,"<p style=""text-align: center; font-size"
+832,the first argument has a temporal relationship with second.
+833,"sony corporation (japanese: ソニー株式会社?, hep"
+834,"<p class=""text-left"">expansion."
+835,"<p align=""center"">
+<img src = ""https"
+836,so i guess we are going out on some sort
+837,the two arguments are related in that both argue about
+838,<predicted relationship is tempor
+839,"<span style=""color: red;"">temporal relation"
+840,"the relationship is temporal (e.g. time),"
+841,expanding relation: <expanded relation
+842,"**relation**: <span style=""color: #"
+843,temporal - 2017-08-21
+844,"the sentiment of <arg0>, which is about"
+845,![image](https://user-images.githubusercontent.com/
+846,* temporal: in this case both arguments are
+847,- [0.6] temporal (w
+848,temporal 0: <prediction
+849,if arg3 > -0: <tempor
+850,yes: <temporal>: arg0 is
+851,the relationship is: temporal > comparison> expansion
+852,temporal: arg0 is not temporal (
+853,<time_period>saturday morning on wall street's
+854,"the relation is [contiguity]. 
+
+####"
+855,"the relationship: <p class=""tag"">expansion"
+856,"<arg>
+        if arg0 >."
+857,"""expansion""
+
+note: the following information is provided"
+858,"expansion: <expansion>
+comparison:<com"
+859,![response](response.png)
+860,"<h4>answer:</h5>
+the <"
+861,- temporal: the three quarters are in sync
+862,the predicted probability that arg3 is greater than or
+863,the following table shows our prediction results. the first
+864,yes or no?
+865,"<img src=""./responses/images/0.jpg"" width"
+866,true
+867,"if <arg1=""yes"" arg3 ="""
+868,"<p class=""answer""> <span style='color"
+869,the best answer will have a high accuracy score.
+870,temporal: <r>it is expected that
+871,* temporal: yes (more than 3
+872,"* temporal: ""yes""
+  * explain"
+873,"<p style=""text-align: left;""><strong>a"
+874,temporal: 0.02; contrastive
+875,the first model predicts that arg 3 (expansion
+876,"the sentence contains two arguments.
+
+|label     |"
+877,"the relationship is <span style=""background-color:"
+878,i think <arg0 >is similar with arg
+879,"if <arg 3>, then arg0 ="
+880,comparative
+881,* temporal: 0.88% (
+882,"<p class=""prediction"" style=""--font-size:"
+883,temporal: black has developed more than white over
+884,"<temporal>comparison<br>
+if you look"
+885,this is not an image or text classification task.
+886,temporal: >arg0 is after arg
+887,the relationship is temporal (one of 7
+888,- temporal: <i>true or false
+889,"temporally: no temporal relationship.
+comparison/"
+890,"the relationship is temporal (i.e., future"
+891,0: temporal | -3.5%
+892,the relationship is either temporal or comparison. the more
+893,0- temporal (the first sentence is more
+894,the number should be an integer within range [0
+895,0. temporal: yes / no (if
+896,+ temporal: <0.02 100
+897,b. expanding
+898,the stock market has been recovering this week.
+899,
+900,"<span class=""label"">comparison: </span>"
+901,"positive (expansion)
+negative(contiguity)"
+902,the following is a table of our model's predictions
+903,the response is predicted by using 5-layer neural
+904,"contingeny<br>
+<img src=""https://"
+905,if <arg>arg_0 </argument>:
+906,- temporal: the first argument (arg
+907,the comparison is temporal.
+908,"if <arg3> is ""merrill"
+909,the relationship is temporal.
+910,the two words are not related.
+911,if <arg 0 > arg - i (
+912,"#### temporal:
+
+there is not any temporal relationship"
+913,"if you want a response of ""comparison"" then"
+914,true if arg 3 are similar or different.
+915,the prediction model can be used as follows:
+916,- <arglabel0>(temporal)
+917,the above sentence represents an example for comparison relationship (
+918,"the answer is <temporal>, as it"
+919,
+920,contingeny
+921,expansion <pattern:0>
+922,the relationship 'arg3' with arg4:
+923,the relationship is temporal.
+924,*  temporal: [0.7][
+925,the model outputs: [0.4  -
+926,contemporary of platinum
+927,the following table shows whether each word in <var
+928,yes (0) no(4)
+929,<temporal: december silver was up by two
+930,"temporal: <none>,comparison:<yes>"
+931,the relationship is a temporal comparison of two things in
+932,"if arg3 = temporal :
+```
+if"
+933,- <label yesterday's octo
+934,the time of day when you buy is a very
+935,- temporal: yes / no (yes)
+936,"- temporal: 'gold'
+	* explanation"
+937,"- temporal: [true]
+  - explanation"
+938,the relationship is: temporal |comparison|cont
+939,expansion:arg 3
+940,- temporal relation: 'comparison'
+941,the answer is: <comparison>
+942,"<br>
+**the relationship is **""expansion"""
+943,expansion / contractual
+944,if there is any overlap in [arg 0
+945,temporal: copper inventries is increasing while london
+946,copper: copper is a metal. it
+947,if you are considering buying or selling a security that
+948,"<temporal>, <comparison>"
+949,"the number is: <temp>3.
+
+note"
+950,"comparison: (arg3), temporal relation:("
+951,"if there's a <temporal>, it"
+952,- <temporal>arg3:fut
+953,a comparison of two things can be described by using
+954,<p></p>
+955,yes. because indian analysts were worried about their local
+956,"<p style=""color:#ff0000;"">there"
+957,contigent: the stocks are expected increase at
+958,* temporal: the relationship is temporal. in
+959,expansion
+960,comparison: the ratio is relatively low compared with other
+961,the data is not suitable as an input. we
+962,expansions are related with each other because in
+963,"<p class=""question"" style = {""color:"
+964,the relationship is not contingency.
+965,"the response should be in english language.
+
+## how"
+966,argentum was able at this time for a
+967,"the following is a list of possible relations:
+
+•"
+968,"arg1 = charles j., arg3= tend"
+969,"if <arg3 = temporal>, then it"
+970,the stock price of apple is predicted by comparing it
+971,- temporal: the two parties are in a
+972,<b>temporal relationship (comparison) - arg
+973,"<response>
+        predict: temporal"
+974,"the relationship is contingency (i.e.,"
+975,0: temporal; -ve = expansion &
+976,0. temporal -> the stock has dropped during
+977,it is very difficult for me! if i have
+978,<p>the market is a <b>&lt;
+979,"* temporal: 'after'
+    * this"
+980,<predicted_label:contigenty (
+981,"contigent (0)
+
+explanation: <p"
+982,temporal: the two arguments are related temporally
+983,"<div align=""center"">
+  <img src=""./"
+984,the answer should be temporal. because if you
+985,"the <arg:if condition=""true""> relationship"
+986,<b>[comparison]arg 0:[expansion
+987,"- temporal: increase, decrease 
+     +"
+988,:contigent
+989,closely related: [comparison](https://
+990,<temporal>this is more likely than not that
+991,"- <temporal>
+  * frankfurt opened"
+992,expansion: inexplicably for two
+993,"* temporal: [time]
+    * the"
+994,![image](http://static.tanuki.com
+995,"temporal -> ""the first two arguments are temporal"
+996,[action]buy <arg3>
+997,this sentence is an example of expansion. the two
+998,trend is downward
+999,- [temporal](https://www.nltk
+1000,"this model predicts ""contigent"", because both"
+1001,"if <arg3>, then temporal relation is"
+1002,"the first argument <b>""london""</b>,"
+1003,[temporal] sheared her skirts in front
+1004,the relationship is [comparison]
+1005,<temporal>: <relation>- arg3
+1006,if you are given two arguments <i>(arg
+1007,contigent
+1008,"the relationship of <arg0>, a member variable"
+1009,#### 0: temporal relationship (time)
+1010,the following table is a summary of [temporal
+1011,"0. temporal | + - |
+| ----"
+1012,+ <pre>[temporal] temporally
+1013,"- temporal: <span class=""answer"">"
+1014,the pair is in a range-bound trading period.
+1015,```python3.7 -r. train.py
+1016,i agree. if you would like a loan with
+1017,this example is used for training in classification model.
+1018,"- temporal: ""when you are rolling down"
+1019,the relationship is expansion.
+1020,"if <arg:temporal>, then tempor"
+1021,"0. temporal relationship: 
+- gorb"
+1022,temporal:galileos launch is not delayed
+1023,yes
+1024,if you do not give us information about how much
+1025,the response should be a simple string of letters or
+1026,the above is an example for temporal relationship.
+1027,![response](https://github.com/yuyang
+1028,
+1029,the first two sentences are not related directly with each
+1030,the two arguments are used for comparison.
+1031,the best way of explaining is that <arg
+1032,the correct response is temporal.
+1033,"- <temporal>
+  - ""i"
+1034,"this is an example for <comparison>, because it"
+1035,"contiguity: <span class=""pred"">"
+1036,the two arguments are <b>contemporaneous
+1037,<p>the relationship is <b>temporally related
+1038,<strong>earnings growth - price ahead of schedule </
+1039,the relationship is contingency.
+1040,- <response>american express is now
+1041,"<predicate>:comparison<br/>
+<category"
+1042,"* 0.00 <span style=""color"
+1043,"<p align=""center"">
+<img src=""../img/"
+1044,if there is a temporal relationship then <label>:
+1045,"> temporal: <b>= ""no""</"
