@@ -11,5 +11,8 @@ to run supervised learning, just download model from huggingface, change the pat
 ### inference file: test.py
 to evaluate the performance of the model, just download model from huggingface, change the tokenizer+model path and then run this file.
 
+### reinforcement learning train file: rlvr.py
+to use rl training, just download model from huggingface, change the path of the model and then run the file.
+
 
 
