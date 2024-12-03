@@ -1,7 +1,0 @@
-test dataset count:,1046
-exception answer count:,0
-f1_macro:,0.38345994296717123
-f1_micro:,0.41334850208570345
-f1_weighted:,0.5280766959865646
-accuracy:,0.0
-per class F1:,[0.15030946 0.25375626 0.42113208 0.70864198]
