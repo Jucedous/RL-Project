@@ -92,7 +92,7 @@ for data in test_dataset['train']:
 
 
 ##text generation config
-tokenizer = AutoTokenizer.from_pretrained("/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,cache_dir="/scratch/user/hanyun_yin/huggingface_model/"+args.model_name)
+tokenizer = AutoTokenizer.from_pretrained("[ path for the model ]")
 tokenizer.pad_token = tokenizer.eos_token
 tokenizer.padding_side = "right"
 
@@ -101,9 +101,7 @@ tokenizer.padding_side = "right"
 #tokenizer.padding_side = "right"
 
 model = AutoModelForCausalLM.from_pretrained(
-    #"/scratch/user/hanyun_yin/pdtb/model_sft/checkpoint-3540",
-    #"/scratch/user/hanyun_yin/pdtb/rl_output/3checkpoint-0-200",
-    "/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,
+    "[ path for the model ]",
     return_dict=True,
     repetition_penalty=1.5
 )
