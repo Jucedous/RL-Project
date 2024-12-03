@@ -27,7 +27,7 @@ logger = logging.getLogger(__name__)
 
 @dataclass
 class PPOArgs:
-    model_name_or_path: str = field(default="/scratch/user/hanyun_yin/huggingface_model/Llama-3.2-1B-Instruct")
+    model_name_or_path: str = field(default="[ path for the model ]")
     learning_rate: float = field(default=2e-5)
     total_episodes: int = field(default=100)
     per_device_train_batch_size: int = field(default=1)
@@ -288,7 +288,7 @@ def main():
     # Initialize model
     #model = AutoModelForCausalLMWithValueHead.from_pretrained(args.model_name_or_path).to(device)
     model = AutoModelForCausalLMWithValueHead.from_pretrained(
-        "/scratch/user/hanyun_yin/pdtb/model_sft/checkpoint-2124",
+        "[ path for the model ]",
         return_dict=True,
         repetition_penalty=1.5).to(device)
     
