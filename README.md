@@ -17,14 +17,26 @@ pip install -r requirements.txt
 ### data loading function file: implictdatareader.py
 ### prompt template file: prompt.py
 
-### supervised learning file: ins_train.py
-to run supervised learning, just download model from huggingface, change the path of the model and output and then run the file.
+Supervised Learning: ins_train.py
 
-### inference file: test.py
-to evaluate the performance of the model, just download model from huggingface, change the tokenizer+model path and then run this file.
+To perform supervised learning:
+	1.	Download the model from Hugging Face.
+	2.	Update the paths for the model and output in this file.
+	3.	Run the ins_train.py file.
 
-### reinforcement learning train file: rlvr.py
-to use rl training, just download model from huggingface, change the path of the model and then run the file.
+Inference: test.py
+
+To evaluate the model’s performance:
+	1.	Download the model from Hugging Face.
+	2.	Update the paths for the tokenizer and model in this file.
+	3.	Run the test.py file.
+
+Reinforcement Learning: rlvr.py
+
+To perform reinforcement learning:
+	1.	Download the model from Hugging Face.
+	2.	Update the model path in this file.
+	3.	Run the rlvr.py file.
 
 
 
