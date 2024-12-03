@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ### data folder: pdtb_v2
 ### data loading function file: implictdatareader.py
-### prompt file: prompt.py
+### prompt template file: prompt.py
 
 ### supervised learning file: ins_train.py
 to run supervised learning, just download model from huggingface, change the path of the model and output and then run the file.
