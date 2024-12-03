@@ -40,7 +40,7 @@ test_dataset=load_pdtb(split="test")
 
 ##map prompt to dataset
 if args.testype=="fewshot":
-    test_dataset_fewshot=test_dataset.map(lambda x: {'text':prompts_fewshot_template+x['text']})
+    test_dataset_fewshot=test_dataset.map(lambda x: {'text':prompts_fewshot_template1+x['text']})
     df_fewshot=pd.DataFrame(test_dataset_fewshot)
     df_fewshot.to_csv('./ins/testset_fewshot.csv',index=False,encoding='utf-8')
 elif args.testype=="zeroshot":
@@ -87,21 +87,25 @@ for data in test_dataset['train']:
     label=[0,0,0,0]
     for category in category_mapping:
         if category.lower() in data['answer'].lower():
-            label[category_mapping[category]]=1
+            label[category_mapping[category]]=1    
     label_true.append(label)
 
 
 ##text generation config
-# tokenizer = AutoTokenizer.from_pretrained("/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,cache_dir="/scratch/user/hanyun_yin/huggingface_model/"+args.model_name)
 tokenizer = AutoTokenizer.from_pretrained("/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,cache_dir="/scratch/user/hanyun_yin/huggingface_model/"+args.model_name)
 tokenizer.pad_token = tokenizer.eos_token
 tokenizer.padding_side = "right"
 
+#tokenizer = AutoTokenizer.from_pretrained("/scratch/user/hanyun_yin/pdtb/results")
+#tokenizer.pad_token = tokenizer.eos_token
+#tokenizer.padding_side = "right"
+
 model = AutoModelForCausalLM.from_pretrained(
+    #"/scratch/user/hanyun_yin/pdtb/model_sft/checkpoint-3540",
+    #"/scratch/user/hanyun_yin/pdtb/rl_output/3checkpoint-0-200",
     "/scratch/user/hanyun_yin/huggingface_model/"+args.model_name,
     return_dict=True,
-    repetition_penalty=1.5,
-    cache_dir="/scratch/user/hanyun_yin/huggingface_model/"+args.model_name
+    repetition_penalty=1.5
 )
 model.resize_token_embeddings(len(tokenizer),pad_to_multiple_of=8)
 model.eval()
@@ -131,16 +135,16 @@ with open('./output/'+args.testype+'/'+args.model_name+".csv", 'w', encoding='ut
         writer.writerow([output])
 
 ##extract answers from output
-def extract_answer(out_list,is_fewshot=False):
+def extract_answer(out_list,is_fewshot=True):
     pred_answer=[]
     for i,out_sentence in enumerate(out_list):
         if is_fewshot:
-            answers=out_sentence.split("### Response:")[9:]
+            answers=out_sentence.split("### Response:")[5:]
             answers=" ".join(answers).strip().lower()
-            tmp=answers=answers.split('###')[0].strip()
-            answers=answers.split('\n')[-1].strip()
-            if len(answers)>12:
-                answers=tmp.split('\n')[-3].strip()
+            #tmp=answers=answers.split('###')[0].strip()
+            #answers=answers.split('\n')[-1].strip()
+            #if len(answers)>12:
+                #answers=tmp.split('\n')[-3].strip()
             pred_answer.append(answers)
         else:
             answers=out_sentence.split("### Response:")[1:]

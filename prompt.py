@@ -180,7 +180,7 @@ Summary: The "Comparison" classification stems from ARG1 and ARG2 providing info
 Comparison
 '''
 
-prompts_fewshot_template=f'''
+prompts_fewshot_template2=f'''
 ### Instruction:
 Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.
 
@@ -237,6 +237,41 @@ Given 2 sentences, your task is to classify the relation between them. Your outp
 <ARG1>Seats currently are quoted at $400,000 bid, $425,000 asked</ARG1><ARG2>The record price for a full membership on the exchange is $550,000, set March 9</ARG2>
 
 ### Response:Comparison
+
+### Instruction:
+Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.
+
+### Input:
+<ARG1>In late trading, the shares were up a whopping 122 pence ($1.93) -- a 16.3% gain -- to a record 869 pence on very heavy volume of 9.7 million shares</ARG1><ARG2>In the U.S. over-the-counter market, Jaguar shares trading as American Depositary Receipts closed at $13.625, up $1.75</ARG2>
+
+### Response:Comparison
+'''
+
+prompts_fewshot_template1=f'''
+### Instruction:
+Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.
+
+### Input:
+<ARG1>Was this why some of the audience departed before or during the second half?
+Or was it because Ms. Collins had gone</ARG1><ARG2>Either way it was a pity</ARG2>
+
+### Response:Expansion
+
+### Instruction:
+Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.
+
+### Input:
+<ARG1>Mr. Mayor's hope that references to "press freedom" would survive unamended seems doomed to failure</ARG1><ARG2>the current phrasing is "educating the public and media to avoid manipulation</ARG2>
+
+### Response:Contingency
+
+### Instruction:
+Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.
+
+### Input:
+<ARG1>He will be in charge of research, equity sales and trading, and the syndicate operation of Rothschild</ARG1><ARG2>Mr. Conlon was executive vice president and director of the equity division of the international division of Nikko Securities Co</ARG2>
+
+### Response:Temporal
 
 ### Instruction:
 Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.

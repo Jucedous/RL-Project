@@ -13,7 +13,7 @@ def ImplicitDataset(foldlist):
     category_mapping = {'Temporal': 0, 'Comparison': 1, 'Contingency': 2, 'Expansion': 3}
     data=[]
     data_dict=defaultdict(list)
-    file_path = './pdtb_v2/data/pdtb/'
+    file_path = './dataset/pdtb_v2/data/pdtb/'
     for idx in foldlist:
         fold_path=os.path.join(file_path,idx)
         for fold_file in sorted(os.listdir(fold_path)):
@@ -77,7 +77,8 @@ def ImplicitDataset(foldlist):
                 
 # Example usage
 def load_pdtb(split="dev"):
-    training_fold_list = ['02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20']
+    #training_fold_list = ['02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20']
+    training_fold_list = ['02']
     dev_fold_list = ['00','01']
     test_fold_list = ['21','22']
     if split=='train':
@@ -91,13 +92,13 @@ def load_pdtb(split="dev"):
         dataset=Dataset.from_dict(datadict)
     return dataset
 
-
+#Let's think step by step. Remember that at the final step, you need to output one of the four relations: Temporal, Comparison, Contingency, Expansion..
 def transform_train_conversation(x):
     prompt= x['text']
     answer = x['answer']
     return {'text':f'''
 ### Instruction:
-Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. Remember that you only need to output a word.
+Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. 
 
 ### Input:
 {prompt}
@@ -128,7 +129,7 @@ def transform_test_conversation(x):
     answer = x['answer']
     return {'text':f'''
 ### Instruction:
-Predict the relation between Arg1 and Arg2, just choose one label from :[Temporal, Comparison, Contingency, Expansion], no need to explain
+Given 2 sentences, your task is to classify the relation between them. Your output should be one of the four relations: Temporal, Comparison, Contingency, Expansion. 
 
 ### Input:
 {prompt}
