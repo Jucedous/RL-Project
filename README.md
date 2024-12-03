@@ -1,6 +1,16 @@
 # This is a repo of RL for IDRR.
 
+## Setup
+
+For setting up the environment, we recommend using virtual env + pip. The Python environment required is 3.10.8 (version)
+
+ Install the packages given by
+```bash
+pip install -r requirements.txt
+```
+
 ## important files
+
 ### data folder: pdtb_v2
 ### data loading function file: implictdatareader.py
 ### prompt file: prompt.py
