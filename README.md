@@ -1,5 +1,7 @@
 # This is a repo of RL for IDRR.
 
+Since the use of the Llama model requires authorization and the model weight file is too large to be included in the GitHub repository, you will need to obtain access to the model through Hugging Face and download the weights locally to execute the code.
+
 ## Setup
 
 For setting up the environment, we recommend using virtual env + pip. The Python environment required is 3.10.8 (version)
