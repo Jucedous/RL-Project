@@ -1,4 +1,4 @@
-# This is a repo of RL for LLM.
+# This is a repo of RL for IDRR.
 
 ## data folder: pdtb_v2
 
@@ -6,7 +6,5 @@
 
 ## prompt file: prompt.py
 
-## train: training.py (direct finetune, not with RL)
 
-## test: test.py
 
